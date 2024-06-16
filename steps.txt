@@ -1,0 +1,46 @@
+I have : 
+
+annotations = 200 images XML 
+images = 200 images with segmentation done. 
+
+
+
+Problem ? 
+
+    === Can't get only the text bandelettes car pas d'id 
+
+What do I want to do ? 
+
+========== STEP 1 ==========
+    --> Remove all the rest and keep only intext and text lines.
+        Alto to Json COCO.  >>>> alto_to_json.py <<<<
+        --> Output = COCO Json 
+
+
+And after that ? 
+========== STEP 2 ==========
+
+I want to use the intext coordinates to crop out my images and also change the coordinates of my text lines. 
+>>>> crop_coco.py <<<<
+    ---> Output :
+        New cropped out image.  
+        COCO Json file with coordinates of intext lines only. 
+
+Things to fix = Set the name of the file for all inputs and outputs. 
+========== STEP 3 : YOLO TXT  ==========
+
+Convert my new json coco file to yolo txt .
+    ---> Output : Yolo txt file with coordinates of text. 
+
+>>>> coco_to_yolo.py <<<< # Convertir coco vers yolo 
+>>>> draw_yolo.py <<<< # Script pour dessier les polygones d'un fichier Yolo TXT sur une image
+
+
+========== STEP 4 : DATA AUGMENTATION ==========
+- flip 
+- invert 
+- invert and flip
+
+    ---> Output : 800 images avec annotations. 
+
+
