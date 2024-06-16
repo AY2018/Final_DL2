@@ -51,7 +51,7 @@ image_info = {
     "id": image_id,
     "width": 801,
     "height": 2246,
-    "file_name": image_file_path
+    "file_name": file_name
 }
 coco_json["images"].append(image_info)
 
@@ -85,7 +85,7 @@ for textline in root.findall('.//alto:TextLine', ns):
 image_id += 1
 
 # Define the output path for the COCO JSON file
-output_json_path = f'/Users/ayoub/Desktop/Final_DL2/annotations/coco/{file_name}_coco.json'
+output_json_path = f'/Users/ayoub/Desktop/Final_DL2/annotations/coco/{file_name}.json'
 
 # Save the COCO JSON to a file
 with open(output_json_path, 'w') as json_file:
