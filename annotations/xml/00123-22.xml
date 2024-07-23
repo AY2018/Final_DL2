@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00123-22.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT32" LABEL="Intext" DESCRIPTION="block type Intext"/><OtherTag ID="BT33" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT34" LABEL="SteleArea" DESCRIPTION="block type SteleArea"/>
+    <OtherTag ID="LT24" LABEL="CommentL" DESCRIPTION="line type CommentL"/><OtherTag ID="LT25" LABEL="IntextL" DESCRIPTION="line type IntextL"/><OtherTag ID="LT26" LABEL="NumberingL" DESCRIPTION="line type NumberingL"/><OtherTag ID="LT27" LABEL="TitleL" DESCRIPTION="line type TitleL"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="836"
+          HEIGHT="1200"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="836"
+                  HEIGHT="1200">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_d3dde060"
+                    
+                    BASELINE="130 55 665 47" 
+                    HPOS="130"
+                    VPOS="6"
+                    WIDTH="535"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="130 55 131 18 172 19 196 10 256 18 276 17 283 11 297 16 304 9 330 8 354 16 372 8 408 12 421 7 430 15 463 15 476 11 541 13 554 6 572 6 576 10 583 6 588 11 626 6 640 12 648 6 662 8 665 47 663 98 423 97 416 101 401 97 385 101 381 97 367 100 352 96 231 101 204 98 192 103 186 99 132 99"/></Shape>
+	    <String CONTENT="天光禪寺碑記"
+                    HPOS="130"
+                    VPOS="6"
+                    WIDTH="535"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_de5b6663"
+                    
+                    BASELINE="145 125 153 365" 
+                    HPOS="109"
+                    VPOS="125"
+                    WIDTH="60"
+                    HEIGHT="240">
+            <Shape><Polygon POINTS="145 125 161 126 157 146 162 162 157 169 162 192 156 201 161 208 157 231 165 248 160 260 160 283 164 287 160 311 165 322 161 343 169 353 169 362 153 365 117 364 113 356 119 345 113 324 119 312 114 299 118 284 110 275 109 237 118 213 117 128"/></Shape>
+	    <String CONTENT="南無十方常住三寶作大證明"
+                    HPOS="109"
+                    VPOS="125"
+                    WIDTH="60"
+                    HEIGHT="240"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2018c46"
+                    
+                    BASELINE="455 126 466 478" 
+                    HPOS="425"
+                    VPOS="126"
+                    WIDTH="76"
+                    HEIGHT="352">
+            <Shape><Polygon POINTS="455 126 471 127 468 163 482 180 475 188 477 214 470 222 471 273 480 282 474 289 473 318 486 332 483 339 488 345 486 354 492 359 491 392 497 401 500 439 501 474 466 478 432 476 428 463 431 459 427 445 425 363 435 353 429 347 435 337 434 327 441 319 438 309 442 305 441 290 433 277 436 263 429 230 439 218 439 191 432 170 436 128"/></Shape>
+	    <String CONTENT="皇朝嘉隆十三年歲次甲戌仲冬月穀日"
+                    HPOS="425"
+                    VPOS="126"
+                    WIDTH="76"
+                    HEIGHT="352"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d8bc117"
+                    
+                    BASELINE="211 165 216 247" 
+                    HPOS="192"
+                    VPOS="165"
+                    WIDTH="30"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="211 165 218 166 217 177 221 180 217 212 222 217 222 244 216 247 202 245 193 231 192 213 200 203 192 189 198 167"/></Shape>
+	    <String CONTENT="從茲來古"
+                    HPOS="192"
+                    VPOS="165"
+                    WIDTH="30"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d9229fcd"
+                    
+                    BASELINE="233 163 235 246" 
+                    HPOS="217"
+                    VPOS="163"
+                    WIDTH="37"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="233 163 247 164 254 175 248 243 235 246 222 244 218 238 223 219 217 204 222 192 217 165"/></Shape>
+	    <String CONTENT="良年良月"
+                    HPOS="217"
+                    VPOS="163"
+                    WIDTH="37"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c99ca7d6"
+                    
+                    BASELINE="272 163 270 247" 
+                    HPOS="249"
+                    VPOS="163"
+                    WIDTH="33"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="272 163 277 165 277 192 282 205 278 213 281 231 276 236 276 245 270 247 256 244 256 235 249 226 251 206 257 199 251 190 255 178 250 164"/></Shape>
+	    <String CONTENT="伽藍土地"
+                    HPOS="249"
+                    VPOS="163"
+                    WIDTH="33"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0665996"
+                    
+                    BASELINE="289 160 297 257" 
+                    HPOS="276"
+                    VPOS="160"
+                    WIDTH="39"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="289 160 303 160 303 178 310 189 305 197 304 224 315 253 297 257 285 256 282 251 286 246 280 233 282 203 277 195 280 177 276 172 279 162"/></Shape>
+	    <String CONTENT="十方三寶"
+                    HPOS="276"
+                    VPOS="160"
+                    WIDTH="39"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc785677"
+                    
+                    BASELINE="353 159 357 250" 
+                    HPOS="334"
+                    VPOS="159"
+                    WIDTH="32"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="353 159 362 160 361 201 366 208 362 219 366 224 365 247 357 250 342 248 339 239 341 205 335 199 338 183 334 180 334 162"/></Shape>
+	    <String CONTENT="風調雨順"
+                    HPOS="334"
+                    VPOS="159"
+                    WIDTH="32"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78ccbd54"
+                    
+                    BASELINE="373 160 377 244" 
+                    HPOS="362"
+                    VPOS="160"
+                    WIDTH="29"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="373 160 388 164 390 178 385 204 385 217 391 222 386 231 389 241 377 244 364 240 369 224 363 219 368 213 362 201 366 182 363 162"/></Shape>
+	    <String CONTENT="皇圖鞏固"
+                    HPOS="362"
+                    VPOS="160"
+                    WIDTH="29"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3fc5a4cb"
+                    
+                    BASELINE="596 158 599 615" 
+                    HPOS="575"
+                    VPOS="158"
+                    WIDTH="40"
+                    HEIGHT="457">
+            <Shape><Polygon POINTS="596 158 608 161 605 170 613 196 613 210 605 224 605 247 609 254 605 274 613 288 607 294 605 308 606 320 614 329 610 344 614 371 606 386 606 430 614 439 615 461 615 512 607 522 612 580 607 586 607 612 599 615 584 613 587 604 577 585 577 567 587 546 587 524 577 509 586 483 576 461 576 376 586 361 586 334 580 328 586 320 583 305 575 294 584 282 585 272 585 246 578 239 575 225 581 208 575 186 585 170 585 160"/></Shape>
+	    <String CONTENT="一興功南昌縣陳蒼社吳廷本妻鄭氏俄女子吳氏恒供舊湖本寺壹口貳高留為香燈"
+                    HPOS="575"
+                    VPOS="158"
+                    WIDTH="40"
+                    HEIGHT="457"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eae4b03d"
+                    
+                    BASELINE="626 160 630 502" 
+                    HPOS="609"
+                    VPOS="160"
+                    WIDTH="33"
+                    HEIGHT="342">
+            <Shape><Polygon POINTS="626 160 634 161 639 173 634 217 640 244 635 257 635 298 640 307 635 319 641 331 641 349 636 359 641 378 636 404 641 413 637 423 642 431 642 476 637 484 642 491 638 499 630 502 612 499 617 442 612 436 611 409 618 392 618 363 611 347 617 320 617 309 611 301 615 296 614 280 610 276 610 249 616 239 616 222 612 218 616 199 611 192 615 184 609 173 609 161"/></Shape>
+	    <String CONTENT="一興功水軍前翼奇正官奇欽差該奇心成侯裴文心正室阮氏意"
+                    HPOS="609"
+                    VPOS="160"
+                    WIDTH="33"
+                    HEIGHT="342"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d7bbd65"
+                    
+                    BASELINE="650 162 653 627" 
+                    HPOS="637"
+                    VPOS="162"
+                    WIDTH="30"
+                    HEIGHT="465">
+            <Shape><Polygon POINTS="650 162 665 163 661 168 665 179 659 188 663 192 660 205 664 216 660 223 665 228 665 262 658 279 658 300 662 305 658 315 666 330 666 342 659 350 666 360 660 370 665 383 659 396 666 411 659 424 659 452 665 458 663 470 667 473 667 505 660 516 660 614 666 624 653 627 639 624 643 615 639 608 643 591 639 583 639 499 643 491 639 482 644 472 638 448 643 428 639 422 643 414 638 406 643 377 638 365 643 357 643 332 637 312 641 308 637 281 642 275 642 231 637 226 642 182 637 163"/></Shape>
+	    <String CONTENT="一興功前堂西定府長[舟曾]庯阮文玄字法念妻鄭氏芳男子阮文才阮文祿阮文規阮氏富等"
+                    HPOS="637"
+                    VPOS="162"
+                    WIDTH="30"
+                    HEIGHT="465"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6d98539"
+                    
+                    BASELINE="677 160 670 914" 
+                    HPOS="653"
+                    VPOS="160"
+                    WIDTH="41"
+                    HEIGHT="754">
+            <Shape><Polygon POINTS="677 160 689 161 692 177 687 186 694 200 694 246 687 253 686 268 690 306 686 324 691 329 686 340 692 358 692 391 685 415 685 447 692 460 692 482 688 497 689 548 684 566 691 581 683 592 690 616 690 632 683 639 683 669 690 690 682 702 682 749 687 754 683 762 689 772 681 842 687 849 681 857 681 911 670 914 653 911 653 816 663 804 654 787 654 765 663 756 663 732 654 714 655 672 661 666 664 651 664 619 658 611 663 604 657 595 663 586 658 571 662 557 658 547 662 542 659 516 665 506 666 483 666 458 657 447 666 438 665 397 661 389 664 382 659 377 666 365 659 351 666 342 666 330 658 317 662 308 658 300 665 286 661 269 668 254 668 231 661 222 664 213 659 205 659 185 666 177 661 161"/></Shape>
+	    <String CONTENT="一興功燒香同春坊永泰甲前文氏霜號慈漿眾子阮氏炎阮有合等一興功洪鐘壹果四淳村阮丕滔妻陳氏𪆣男子阮曰諺等"
+                    HPOS="653"
+                    VPOS="160"
+                    WIDTH="41"
+                    HEIGHT="754"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e6e674f"
+                    
+                    BASELINE="400 178 403 217" 
+                    HPOS="385"
+                    VPOS="178"
+                    WIDTH="31"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="400 178 414 178 416 188 416 213 403 217 385 216 389 180"/></Shape>
+	    <String CONTENT="銘曰"
+                    HPOS="385"
+                    VPOS="178"
+                    WIDTH="31"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad28ca13"
+                    
+                    BASELINE="702 167 695 987" 
+                    HPOS="682"
+                    VPOS="167"
+                    WIDTH="41"
+                    HEIGHT="820">
+            <Shape><Polygon POINTS="702 167 719 169 716 173 723 191 715 204 720 211 715 224 719 247 713 262 720 279 714 292 717 324 712 330 722 352 715 362 712 390 723 417 723 515 719 525 722 628 716 651 721 665 721 698 719 726 711 740 713 751 708 765 707 984 695 987 684 984 682 978 682 870 688 861 685 852 689 846 683 832 687 808 684 786 689 769 683 757 684 728 691 710 688 694 692 635 692 585 685 574 685 561 693 518 689 499 693 492 693 462 686 449 686 412 694 379 689 349 694 342 690 327 694 321 690 311 694 287 688 280 688 261 695 242 690 220 695 201 688 183 695 168"/></Shape>
+	    <String CONTENT="一興功上殿供舊本寺湖貳口共陸高留為香燈前黎春名字福價妻陶氏美號慈良男子黎春強黎春臺黎春 婚楊氏榮阮氏傾阮氏會等"
+                    HPOS="682"
+                    VPOS="167"
+                    WIDTH="41"
+                    HEIGHT="820"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4d36fed"
+                    
+                    BASELINE="326 185 323 224" 
+                    HPOS="304"
+                    VPOS="185"
+                    WIDTH="31"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="326 185 335 187 334 222 323 224 304 217 308 210 305 198 311 193 311 185"/></Shape>
+	    <String CONTENT="一願"
+                    HPOS="304"
+                    VPOS="185"
+                    WIDTH="31"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_81a16f4c"
+                    
+                    BASELINE="514 193 516 217" 
+                    HPOS="495"
+                    VPOS="192"
+                    WIDTH="47"
+                    HEIGHT="24">
+            <Shape><Polygon POINTS="514 193 542 192 537 213 495 216 497 196"/></Shape>
+	    <String CONTENT="時"
+                    HPOS="495"
+                    VPOS="192"
+                    WIDTH="47"
+                    HEIGHT="24"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dee07af2"
+                    
+                    BASELINE="202 333 211 424" 
+                    HPOS="186"
+                    VPOS="333"
+                    WIDTH="39"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="202 333 217 334 216 346 223 362 221 377 225 380 220 389 223 420 211 424 188 423 186 401 192 389 190 383 201 365 196 353 198 335"/></Shape>
+	    <String CONTENT="若有何人"
+                    HPOS="186"
+                    VPOS="333"
+                    WIDTH="39"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d61dfb5"
+                    
+                    BASELINE="237 334 235 415" 
+                    HPOS="226"
+                    VPOS="334"
+                    WIDTH="29"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="237 334 251 340 249 353 255 374 248 393 250 412 235 415 227 412 231 399 226 379 232 374 227 335"/></Shape>
+	    <String CONTENT="吉日吉辰"
+                    HPOS="226"
+                    VPOS="334"
+                    WIDTH="29"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db2f83fb"
+                    
+                    BASELINE="273 333 269 429" 
+                    HPOS="251"
+                    VPOS="333"
+                    WIDTH="33"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="273 333 281 335 279 358 283 366 278 385 284 391 284 427 269 429 251 421 253 386 260 375 256 363 256 352 261 347 258 334"/></Shape>
+	    <String CONTENT="明照殿前"
+                    HPOS="251"
+                    VPOS="333"
+                    WIDTH="33"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ef59856"
+                    
+                    BASELINE="294 330 290 421" 
+                    HPOS="279"
+                    VPOS="330"
+                    WIDTH="43"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="294 330 311 333 310 356 322 369 314 390 320 396 316 400 320 407 318 420 283 418 280 405 284 384 279 379 284 366 280 359 285 349 281 345 283 331"/></Shape>
+	    <String CONTENT="諸佛証明"
+                    HPOS="279"
+                    VPOS="330"
+                    WIDTH="43"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_82cb16c9"
+                    
+                    BASELINE="354 323 347 426" 
+                    HPOS="328"
+                    VPOS="323"
+                    WIDTH="37"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="354 323 360 324 359 333 365 341 365 349 357 356 356 371 362 400 355 423 347 426 328 422 339 400 338 379 342 375 342 367 328 346 329 323"/></Shape>
+	    <String CONTENT="天下太平"
+                    HPOS="328"
+                    VPOS="323"
+                    WIDTH="37"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39c3835e"
+                    
+                    BASELINE="374 327 382 423" 
+                    HPOS="354"
+                    VPOS="327"
+                    WIDTH="49"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="374 327 398 327 399 333 394 357 396 372 403 381 398 402 402 405 401 418 382 423 359 422 358 410 366 396 357 386 360 378 355 373 354 361 364 348 363 329"/></Shape>
+	    <String CONTENT="帝道遐昌"
+                    HPOS="354"
+                    VPOS="327"
+                    WIDTH="49"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03f7ae08"
+                    
+                    BASELINE="203 505 212 600" 
+                    HPOS="180"
+                    VPOS="505"
+                    WIDTH="44"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="203 505 217 505 215 514 223 520 224 527 220 541 223 555 219 560 223 592 212 600 192 600 190 595 191 585 185 578 188 549 182 542 184 534 180 527 184 508"/></Shape>
+	    <String CONTENT="干犯碑文"
+                    HPOS="180"
+                    VPOS="505"
+                    WIDTH="44"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d4c95c1"
+                    
+                    BASELINE="230 505 238 596" 
+                    HPOS="218"
+                    VPOS="505"
+                    WIDTH="40"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="230 505 253 505 247 523 257 544 258 556 250 566 252 592 238 596 225 595 229 572 223 566 221 546 226 540 226 529 218 516 218 507"/></Shape>
+	    <String CONTENT="設立銘文"
+                    HPOS="218"
+                    VPOS="505"
+                    WIDTH="40"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e89df901"
+                    
+                    BASELINE="261 504 263 605" 
+                    HPOS="252"
+                    VPOS="504"
+                    WIDTH="32"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="261 504 284 507 284 528 278 538 278 566 282 571 278 586 284 594 280 602 263 605 258 602 253 585 258 555 252 539 252 520 257 505"/></Shape>
+	    <String CONTENT="彗日光明"
+                    HPOS="252"
+                    VPOS="504"
+                    WIDTH="32"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6dc8a7d6"
+                    
+                    BASELINE="291 505 297 596" 
+                    HPOS="277"
+                    VPOS="505"
+                    WIDTH="29"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="291 505 302 506 297 523 305 540 301 551 306 561 300 569 306 591 297 596 284 594 280 588 282 571 277 551 284 529 283 507"/></Shape>
+	    <String CONTENT="十八靈山"
+                    HPOS="277"
+                    VPOS="505"
+                    WIDTH="29"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_08630553"
+                    
+                    BASELINE="350 510 350 598" 
+                    HPOS="335"
+                    VPOS="510"
+                    WIDTH="30"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="350 510 359 511 362 517 359 529 365 535 365 548 359 564 365 571 359 577 359 589 365 596 335 596 335 576 339 572 335 559 340 553 335 530 340 522 337 512"/></Shape>
+	    <String CONTENT="百福駢臻"
+                    HPOS="335"
+                    VPOS="510"
+                    WIDTH="30"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b639c788"
+                    
+                    BASELINE="372 505 375 591" 
+                    HPOS="358"
+                    VPOS="505"
+                    WIDTH="56"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="372 505 407 505 414 528 409 550 413 556 409 560 413 587 375 591 364 588 365 570 359 554 366 545 366 534 358 526 362 517 358 507"/></Shape>
+	    <String CONTENT="佛日增輝"
+                    HPOS="358"
+                    VPOS="505"
+                    WIDTH="56"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce332165"
+                    
+                    BASELINE="620 513 621 592" 
+                    HPOS="610"
+                    VPOS="513"
+                    WIDTH="17"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="620 513 626 517 627 525 625 587 621 592 610 589 614 514"/></Shape>
+	    <String CONTENT="和平 ?江?  石安 社"
+                    HPOS="610"
+                    VPOS="513"
+                    WIDTH="17"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bea92b54"
+                    
+                    BASELINE="632 512 635 597" 
+                    HPOS="622"
+                    VPOS="512"
+                    WIDTH="20"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="632 512 639 513 636 535 641 549 637 567 642 592 635 597 624 595 627 569 623 557 627 542 622 532 626 528 623 514"/></Shape>
+	    <String CONTENT="貫在嘉定城建 ? 西"
+                    HPOS="622"
+                    VPOS="512"
+                    WIDTH="20"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5d8f2d36"
+                    
+                    BASELINE="428 569 434 791" 
+                    HPOS="407"
+                    VPOS="569"
+                    WIDTH="44"
+                    HEIGHT="222">
+            <Shape><Polygon POINTS="428 569 439 570 444 582 439 587 443 598 440 625 448 639 448 650 441 658 441 675 448 689 442 705 450 715 450 739 446 743 451 759 445 768 446 787 434 791 412 789 416 756 411 735 417 721 410 709 416 680 409 667 418 643 417 613 407 602 408 589 413 584 410 571"/></Shape>
+	    <String CONTENT="天光寺住持僧比丘字寂鏗撰"
+                    HPOS="407"
+                    VPOS="569"
+                    WIDTH="44"
+                    HEIGHT="222"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f2eff96"
+                    
+                    BASELINE="623 623 623 1002" 
+                    HPOS="592"
+                    VPOS="623"
+                    WIDTH="47"
+                    HEIGHT="379">
+            <Shape><Polygon POINTS="623 623 630 624 630 658 639 675 639 689 630 708 638 722 630 730 639 760 636 787 631 795 639 814 639 843 630 852 630 930 634 935 630 942 639 960 639 1000 623 1002 603 1000 603 965 592 947 596 937 592 915 599 904 592 896 592 854 602 839 594 824 597 814 592 809 592 803 601 794 596 784 602 774 596 763 600 757 597 741 602 734 594 715 596 694 601 689 597 677 603 670 597 625"/></Shape>
+	    <String CONTENT="一功德水軍前翼奇四隊該隊利才侯阮文利妻阮氏祿貫在嘉定 乂府  ? 和平總江延安石安 社妻阮氏祿"
+                    HPOS="592"
+                    VPOS="623"
+                    WIDTH="47"
+                    HEIGHT="379"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_054b8a56"
+                    
+                    BASELINE="207 686 213 782" 
+                    HPOS="183"
+                    VPOS="686"
+                    WIDTH="43"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="207 686 219 687 225 711 222 724 226 727 226 775 225 779 213 782 191 781 188 776 198 758 197 734 184 716 183 694 188 689"/></Shape>
+	    <String CONTENT="難逃鐵網"
+                    HPOS="183"
+                    VPOS="686"
+                    WIDTH="43"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a84e9d57"
+                    
+                    BASELINE="238 690 245 777" 
+                    HPOS="221"
+                    VPOS="690"
+                    WIDTH="34"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="238 690 251 690 252 698 248 723 255 736 254 771 245 777 227 776 223 725 226 703 221 692"/></Shape>
+	    <String CONTENT="永為常住"
+                    HPOS="221"
+                    VPOS="690"
+                    WIDTH="34"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c93012a"
+                    
+                    BASELINE="265 690 273 775" 
+                    HPOS="249"
+                    VPOS="690"
+                    WIDTH="37"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="265 690 278 690 278 729 285 742 286 771 273 775 253 774 255 735 249 731 250 692"/></Shape>
+	    <String CONTENT="來臨証鑒"
+                    HPOS="249"
+                    VPOS="690"
+                    WIDTH="37"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ebc6a8d5"
+                    
+                    BASELINE="288 685 295 779" 
+                    HPOS="278"
+                    VPOS="685"
+                    WIDTH="37"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="288 685 308 685 303 691 304 716 312 725 313 735 306 744 307 752 315 760 315 775 286 777 286 742 278 725 279 687"/></Shape>
+	    <String CONTENT="神祇會上"
+                    HPOS="278"
+                    VPOS="685"
+                    WIDTH="37"
+                    HEIGHT="92"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a62707b7"
+                    
+                    BASELINE="344 690 355 775" 
+                    HPOS="323"
+                    VPOS="690"
+                    WIDTH="38"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="344 690 357 690 359 698 361 716 355 726 361 772 355 775 326 773 323 745 332 730 325 724 329 693"/></Shape>
+	    <String CONTENT="諸災消滅"
+                    HPOS="323"
+                    VPOS="690"
+                    WIDTH="38"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe947905"
+                    
+                    BASELINE="370 688 375 777" 
+                    HPOS="357"
+                    VPOS="688"
+                    WIDTH="35"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="370 688 386 689 392 703 392 713 383 728 387 735 382 741 382 756 389 768 375 777 361 775 364 767 358 752 357 720 365 709 364 690"/></Shape>
+	    <String CONTENT="法輪常轉"
+                    HPOS="357"
+                    VPOS="688"
+                    WIDTH="35"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6ef9589c"
+                    
+                    BASELINE="189 826 197 990" 
+                    HPOS="168"
+                    VPOS="826"
+                    WIDTH="45"
+                    HEIGHT="164">
+            <Shape><Polygon POINTS="189 826 208 827 209 835 200 895 208 929 202 936 213 947 204 967 208 987 197 990 174 988 173 967 177 958 172 948 178 931 172 925 176 903 170 894 175 882 169 875 168 863 174 854 169 844 173 828"/></Shape>
+	    <String CONTENT="舊戶番勾稽陶阮垣奉寫"
+                    HPOS="168"
+                    VPOS="826"
+                    WIDTH="45"
+                    HEIGHT="164"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

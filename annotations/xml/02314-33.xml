@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>02314-33.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT32" LABEL="Intext" DESCRIPTION="block type Intext"/><OtherTag ID="BT33" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT34" LABEL="SteleArea" DESCRIPTION="block type SteleArea"/>
+    <OtherTag ID="LT24" LABEL="CommentL" DESCRIPTION="line type CommentL"/><OtherTag ID="LT25" LABEL="IntextL" DESCRIPTION="line type IntextL"/><OtherTag ID="LT26" LABEL="NumberingL" DESCRIPTION="line type NumberingL"/><OtherTag ID="LT27" LABEL="TitleL" DESCRIPTION="line type TitleL"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="936"
+          HEIGHT="2311"
+          PHYSICAL_IMG_NR="52"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="936"
+                  HEIGHT="2311">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_65f75f29"
+                    
+                    BASELINE="203 364 170 1993" 
+                    HPOS="55"
+                    VPOS="363"
+                    WIDTH="203"
+                    HEIGHT="1628">
+            <Shape><Polygon POINTS="202 363 254 367 246 377 258 389 250 396 244 467 254 477 240 504 252 548 240 600 244 637 256 656 248 668 252 681 229 710 227 828 238 841 242 880 234 895 236 930 223 945 219 1138 244 1174 227 1224 236 1244 225 1267 233 1296 225 1330 238 1353 227 1365 229 1400 213 1425 211 1521 211 1544 225 1567 219 1660 234 1704 233 1806 227 1868 217 1883 229 1900 221 1908 229 1918 229 1948 221 1956 227 1972 217 1987 169 1991 63 1983 71 1950 55 1918 71 1895 57 1864 77 1837 55 1800 78 1758 65 1727 73 1719 69 1704 80 1692 80 1636 71 1623 82 1604 82 1573 67 1556 80 1536 80 1519 67 1504 82 1459 61 1438 73 1427 69 1409 80 1394 73 1359 80 1346 63 1313 63 1244 78 1222 65 1174 67 1132 80 1109 67 1055 77 1032 69 1012 69 937 80 864 71 853 73 768 100 743 100 656 90 641 100 629 90 583 103 552 103 525 94 516 102 494 94 483 103 471 105 363"/></Shape>
+	    <String CONTENT="新明縣篤敬社內村陳氏 號慈臺戶舍社陳氏須阮氏軒"
+                    HPOS="55"
+                    VPOS="363"
+                    WIDTH="203"
+                    HEIGHT="1628"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_67c64b25"
+                    
+                    BASELINE="271 345 263 1602" 
+                    HPOS="227"
+                    VPOS="344"
+                    WIDTH="98"
+                    HEIGHT="1256">
+            <Shape><Polygon POINTS="269 344 317 348 312 358 325 383 310 419 317 433 315 467 325 477 325 560 317 587 325 597 325 656 323 770 310 785 313 831 298 845 292 876 296 920 313 939 308 974 321 987 321 1041 308 1055 315 1068 290 1095 300 1118 290 1138 290 1211 302 1226 292 1238 288 1286 288 1511 302 1542 288 1554 294 1594 261 1600 227 1594 227 1548 238 1532 227 1519 227 1384 244 1338 227 1303 238 1244 229 1219 248 1182 248 1055 229 1026 234 897 244 882 242 851 231 833 231 708 250 683 252 658 242 600 252 585 252 475 244 467 252 346"/></Shape>
+	    <String CONTENT="本莊阮三才鄧厥常西山伯杜卓宋心廣鄧鼎"
+                    HPOS="227"
+                    VPOS="344"
+                    WIDTH="98"
+                    HEIGHT="1256"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3facf19c"
+                    
+                    BASELINE="613 469 596 1684" 
+                    HPOS="531"
+                    VPOS="467"
+                    WIDTH="150"
+                    HEIGHT="1216">
+            <Shape><Polygon POINTS="612 467 658 469 658 543 674 560 664 604 656 608 654 772 666 789 658 806 670 847 679 856 668 897 681 910 670 939 681 966 658 989 660 1009 650 1014 650 1095 666 1113 666 1130 652 1149 672 1194 677 1278 676 1413 647 1455 647 1490 654 1500 650 1552 660 1575 649 1590 670 1644 658 1658 658 1679 595 1683 531 1677 531 1565 546 1523 533 1494 533 1452 545 1440 535 1396 545 1371 535 1359 543 1276 537 1207 543 1180 568 1142 568 1053 554 1032 568 993 558 980 552 928 541 916 543 858 556 839 554 804 570 787 564 754 573 737 573 670 564 656 572 618 562 608 575 589 564 566 575 504 568 469"/></Shape>
+	    <String CONTENT="真定縣高邁社各匠號修福作刊碑"
+                    HPOS="531"
+                    VPOS="467"
+                    WIDTH="150"
+                    HEIGHT="1216"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

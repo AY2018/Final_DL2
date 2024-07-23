@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>01927-43.JPG</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT32" LABEL="Intext" DESCRIPTION="block type Intext"/><OtherTag ID="BT33" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT34" LABEL="SteleArea" DESCRIPTION="block type SteleArea"/>
+    <OtherTag ID="LT24" LABEL="CommentL" DESCRIPTION="line type CommentL"/><OtherTag ID="LT25" LABEL="IntextL" DESCRIPTION="line type IntextL"/><OtherTag ID="LT26" LABEL="NumberingL" DESCRIPTION="line type NumberingL"/><OtherTag ID="LT27" LABEL="TitleL" DESCRIPTION="line type TitleL"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1051"
+          HEIGHT="2276"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1051"
+                  HEIGHT="2276">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_8ffde972"
+                    
+                    BASELINE="537 165 549 1578" 
+                    HPOS="476"
+                    VPOS="163"
+                    WIDTH="117"
+                    HEIGHT="1413">
+            <Shape><Polygon POINTS="536 163 584 165 572 212 572 229 584 240 582 261 569 284 574 303 555 348 565 364 559 383 576 407 565 443 586 477 586 510 572 523 578 548 563 587 569 601 555 614 565 639 557 650 557 684 565 694 557 705 565 715 557 724 565 754 557 764 557 819 569 836 557 861 569 874 561 885 578 927 567 950 580 978 561 1031 567 1039 559 1048 559 1096 591 1132 591 1183 582 1193 590 1213 574 1229 578 1246 561 1263 567 1327 586 1344 578 1356 586 1375 563 1414 563 1435 593 1481 593 1570 548 1576 525 1570 516 1555 525 1532 525 1479 517 1471 525 1435 514 1422 525 1407 525 1342 523 1306 506 1276 523 1259 510 1202 521 1183 516 1168 523 1160 523 1103 521 1062 500 1016 512 991 508 957 521 933 500 900 508 893 502 870 483 853 493 840 479 826 479 789 489 775 479 749 485 658 478 631 478 614 489 601 487 572 508 538 504 523 514 506 478 440 476 347 485 301 476 290 476 165"/></Shape>
+	    <String CONTENT="皇朝景興萬萬年之十八歲旬丁丑正月二十七日"
+                    HPOS="476"
+                    VPOS="163"
+                    WIDTH="117"
+                    HEIGHT="1413"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6b5eb24"
+                    
+                    BASELINE="378 857 387 1949" 
+                    HPOS="320"
+                    VPOS="855"
+                    WIDTH="97"
+                    HEIGHT="1092">
+            <Shape><Polygon POINTS="377 855 405 857 411 876 404 900 411 936 404 1109 413 1126 413 1187 405 1198 413 1221 407 1669 409 1731 417 1743 409 1750 409 1839 417 1849 409 1911 417 1942 385 1947 358 1942 362 1904 341 1864 350 1839 343 1826 362 1805 362 1794 339 1769 337 1754 349 1735 333 1716 349 1701 337 1682 360 1640 350 1615 360 1600 360 1562 339 1526 347 1511 328 1477 333 1462 326 1450 322 1371 358 1312 358 1191 345 1164 354 1139 339 1119 350 1098 345 1056 320 1022 328 1010 320 999 320 857"/></Shape>
+	    <String CONTENT="親男效順宣力功臣同參從中銳軍營權府事都校點司左校點滾郡公張洭承"
+                    HPOS="320"
+                    VPOS="855"
+                    WIDTH="97"
+                    HEIGHT="1092"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc6f4a2d"
+                    
+                    BASELINE="442 886 451 1999" 
+                    HPOS="404"
+                    VPOS="885"
+                    WIDTH="68"
+                    HEIGHT="1112">
+            <Shape><Polygon POINTS="440 885 464 895 455 914 464 990 453 1009 464 1027 455 1037 462 1050 453 1096 466 1107 457 1122 464 1145 455 1177 466 1200 455 1213 455 1249 466 1280 459 1325 468 1342 460 1403 468 1437 457 1462 464 1515 457 1526 466 1570 459 1612 468 1623 470 1653 459 1665 459 1769 470 1779 462 1801 472 1824 460 1879 472 1906 460 1932 472 1945 464 1978 470 1991 449 1997 419 1993 421 1947 411 1928 411 1890 421 1875 413 1864 421 1853 411 1841 415 1646 407 1551 417 1538 407 1504 417 1331 407 1304 415 1295 415 1219 405 1206 415 1187 415 1120 404 1107 404 1016 413 990 411 916 404 902 413 889"/></Shape>
+	    <String CONTENT="賜戊辰科第壹甲進士及第弘信大夫尚寶寺卿兼賞功 碩亭居士阮輝𠐓"
+                    HPOS="404"
+                    VPOS="885"
+                    WIDTH="68"
+                    HEIGHT="1112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2329e51c"
+                    
+                    BASELINE="492 931 510 2044" 
+                    HPOS="453"
+                    VPOS="929"
+                    WIDTH="83"
+                    HEIGHT="1113">
+            <Shape><Polygon POINTS="491 929 521 933 508 957 514 988 506 999 506 1035 517 1056 508 1065 508 1092 523 1107 508 1172 521 1183 510 1202 525 1249 510 1285 527 1312 527 1378 512 1424 525 1466 519 1473 529 1483 517 1517 527 1528 516 1555 531 1581 531 1623 516 1646 533 1697 519 1716 533 1739 517 1771 519 1879 536 1921 536 1947 521 1970 527 2021 521 2037 508 2042 479 2038 470 1968 478 1921 466 1890 478 1820 466 1805 476 1788 464 1777 464 1741 474 1731 464 1693 474 1669 462 1648 470 1636 462 1615 470 1579 460 1547 460 1462 472 1424 470 1359 460 1331 470 1312 468 1276 457 1259 457 1213 468 1194 455 1175 462 1147 455 1126 466 1113 455 1096 457 1062 464 1054 455 1039 464 1022 453 1010 464 982 464 933"/></Shape>
+	    <String CONTENT="親男弘信大夫僉知侍內書寫戶番隨講內跡戶部郎中煒忠子張 承"
+                    HPOS="453"
+                    VPOS="929"
+                    WIDTH="83"
+                    HEIGHT="1113"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e01e68b"
+                    
+                    BASELINE="397 2028 394 2107" 
+                    HPOS="356"
+                    VPOS="2027"
+                    WIDTH="70"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="396 2027 424 2031 426 2055 411 2074 413 2101 392 2105 371 2099 356 2054 362 2029"/></Shape>
+	    <String CONTENT="遵正"
+                    HPOS="356"
+                    VPOS="2027"
+                    WIDTH="70"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_61d68014"
+                    
+                    BASELINE="449 2069 444 2121" 
+                    HPOS="409"
+                    VPOS="2067"
+                    WIDTH="61"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="447 2067 470 2073 470 2118 419 2112 409 2093 411 2067"/></Shape>
+	    <String CONTENT="潤"
+                    HPOS="409"
+                    VPOS="2067"
+                    WIDTH="61"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7b8096e"
+                    
+                    BASELINE="494 2075 502 2115" 
+                    HPOS="470"
+                    VPOS="2071"
+                    WIDTH="70"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="493 2074 529 2071 540 2101 474 2114 470 2080"/></Shape>
+	    <String CONTENT="撰"
+                    HPOS="470"
+                    VPOS="2071"
+                    WIDTH="70"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

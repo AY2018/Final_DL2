@@ -34,11 +34,11 @@ def draw_polygons(image_path, yolo_txt_path):
     cv2.destroyAllWindows()
 
 # Define the file name 
-file_name = '18030-31_intext_flip_inv_color'  
+file_name = '00012-42'  
 
 # Construct the input paths
-image_path = f'/Users/ayoub/Desktop/Final_DL2/intext_images/{file_name}.JPG'
-yolo_txt_path = f'/Users/ayoub/Desktop/Final_DL2/intext_annotations/yolo/{file_name}.txt'
+image_path = f'/Users/ayoub/Documents/Github/Final_DL2/intext_images/{file_name}_intext.JPG'
+yolo_txt_path = f'/Users/ayoub/Documents/Github/Final_DL2/intext_annotations/yolo/{file_name}_intext.txt'
 
 # Draw polygons on the image and display it
 draw_polygons(

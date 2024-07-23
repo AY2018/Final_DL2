@@ -4,15 +4,22 @@ import numpy as np
 import os
 
 # Define the file name (without extension) as a variable
-file_name = '18030-31'
+file_name = '00012-42'
 
 # Define the input paths
-image_path = f'/Users/ayoub/Desktop/Final_DL2/images/{file_name}.JPG'
-json_path = f'/Users/ayoub/Desktop/Final_DL2/annotations/coco/{file_name}.json'
+base_image_path = f'/Users/ayoub/Documents/Github/Final_DL2/images/{file_name}'
+json_path = f'/Users/ayoub/Documents/Github/Final_DL2/annotations/coco/{file_name}.json'
 
 # Define the output paths
-output_image_path = f'/Users/ayoub/Desktop/Final_DL2/intext_images/{file_name}_intext.JPG'
-output_json_path = f'/Users/ayoub/Desktop/Final_DL2/intext_annotations/coco/{file_name}_intext.json'
+output_image_path = f'/Users/ayoub/Documents/Github/Final_DL2/intext_images/{file_name}_intext.JPG'
+output_json_path = f'/Users/ayoub/Documents/Github/Final_DL2/intext_annotations/coco/{file_name}_intext.json'
+
+def find_image_file(base_image_path):
+    for ext in ['JPG', 'jpg']:
+        image_path = f'{base_image_path}.{ext}'
+        if os.path.isfile(image_path):
+            return image_path
+    raise FileNotFoundError(f"No image file found for base path {base_image_path} with extensions JPG or jpg")
 
 def adjust_annotations(coco_data, crop_box, intext_polygon):
     adjusted_annotations = []
@@ -97,6 +104,7 @@ def crop_image_and_adjust_annotations(image_path, json_path, output_image_path, 
         json.dump(new_coco_data, f, indent=4)
 
 # Example usage
+image_path = find_image_file(base_image_path)
 crop_image_and_adjust_annotations(
     image_path=image_path,
     json_path=json_path,

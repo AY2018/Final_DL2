@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://gitlab.inria.fr/scripta/escriptorium/-/raw/develop/app/escriptorium/static/alto-4-1-baselines.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>00788.jpg</fileName>
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT32" LABEL="Intext" DESCRIPTION="block type Intext"/><OtherTag ID="BT33" LABEL="Numbering" DESCRIPTION="block type Numbering"/><OtherTag ID="BT34" LABEL="SteleArea" DESCRIPTION="block type SteleArea"/>
+    <OtherTag ID="LT24" LABEL="CommentL" DESCRIPTION="line type CommentL"/><OtherTag ID="LT25" LABEL="IntextL" DESCRIPTION="line type IntextL"/><OtherTag ID="LT26" LABEL="NumberingL" DESCRIPTION="line type NumberingL"/><OtherTag ID="LT27" LABEL="TitleL" DESCRIPTION="line type TitleL"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1430"
+          HEIGHT="1963"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1430"
+                  HEIGHT="1963">
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_6b6c576b"
+                    
+                    BASELINE="271 346 1116 337" 
+                    HPOS="269"
+                    VPOS="271"
+                    WIDTH="846"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="269 345 271 276 366 276 373 282 423 284 453 274 490 274 523 284 536 278 603 284 621 273 631 279 716 273 765 284 822 271 865 282 873 274 896 282 1110 281 1115 336 1112 372 1097 384 1071 384 1063 376 1042 377 1034 371 1014 384 919 386 894 372 881 386 811 379 804 386 767 381 757 387 731 387 718 379 669 387 638 384 628 374 597 376 579 387 553 381 536 389 490 376 454 376 427 386 371 377 340 387 323 377 273 377"/></Shape>
+	    <String CONTENT="本府前進士題名碑"
+                    HPOS="269"
+                    VPOS="271"
+                    WIDTH="846"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c5d870ec"
+                    
+                    BASELINE="778 436 782 983" 
+                    HPOS="759"
+                    VPOS="435"
+                    WIDTH="34"
+                    HEIGHT="546">
+            <Shape><Polygon POINTS="777 435 791 436 791 587 783 601 783 641 791 664 783 673 783 695 790 708 785 775 793 785 785 795 793 814 785 842 785 920 793 953 780 981 768 971 770 907 760 898 760 814 768 798 762 790 767 777 760 767 759 698 768 669 759 659 759 621 768 611 759 600 759 582 768 536 759 503 767 490 760 477 767 438"/></Shape>
+	    <String CONTENT="賜第三甲同進士出身 慈廉縣謝子顛黎太和戊辰"
+                    HPOS="759"
+                    VPOS="435"
+                    WIDTH="34"
+                    HEIGHT="546"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_58444fb7"
+                    
+                    BASELINE="932 438 927 972" 
+                    HPOS="904"
+                    VPOS="436"
+                    WIDTH="36"
+                    HEIGHT="535">
+            <Shape><Polygon POINTS="930 436 940 451 934 469 940 598 932 616 932 695 939 705 932 762 939 790 930 835 935 958 926 971 904 966 904 829 912 811 906 799 914 791 914 770 906 759 912 721 908 683 914 677 914 641 906 631 914 528 908 515 908 438"/></Shape>
+	    <String CONTENT="賜第二甲進士出身 慈廉縣阮如淵黎光順己丑"
+                    HPOS="904"
+                    VPOS="436"
+                    WIDTH="36"
+                    HEIGHT="535"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d648126f"
+                    
+                    BASELINE="978 441 980 982" 
+                    HPOS="962"
+                    VPOS="440"
+                    WIDTH="34"
+                    HEIGHT="541">
+            <Shape><Polygon POINTS="976 440 996 441 989 479 996 513 988 533 994 551 988 592 994 605 989 626 996 660 996 678 988 687 994 696 988 719 994 731 988 744 988 889 996 902 988 952 993 976 978 981 966 978 962 960 962 832 968 816 962 786 968 731 962 708 968 698 968 623 962 608 966 443"/></Shape>
+	    <String CONTENT="賜第一甲進士及第第一名永順縣武 昭黎洪德乙未"
+                    HPOS="962"
+                    VPOS="440"
+                    WIDTH="34"
+                    HEIGHT="541"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20bfa33c"
+                    
+                    BASELINE="313 469 313 978" 
+                    HPOS="296"
+                    VPOS="467"
+                    WIDTH="31"
+                    HEIGHT="509">
+            <Shape><Polygon POINTS="312 467 320 469 323 482 319 526 325 561 319 592 327 610 319 629 319 744 327 772 319 791 327 842 320 850 320 889 327 896 327 948 319 961 325 973 312 976 305 973 305 907 296 878 296 813 305 798 305 759 296 744 305 669 296 642 304 585 296 572 302 546 296 526 302 503 297 471"/></Shape>
+	    <String CONTENT="林                           武寅亮黎景興己亥武仲 黎  丁未阮國彥"
+                    HPOS="296"
+                    VPOS="467"
+                    WIDTH="31"
+                    HEIGHT="509"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_160d7edc"
+                    
+                    BASELINE="331 469 337 992" 
+                    HPOS="320"
+                    VPOS="467"
+                    WIDTH="30"
+                    HEIGHT="524">
+            <Shape><Polygon POINTS="330 467 345 469 348 484 340 775 350 793 340 803 346 811 341 899 350 917 345 973 335 991 322 988 328 898 322 891 327 773 320 755 320 471"/></Shape>
+	    <String CONTENT="武廷蓉   癸丑潘廷     戌"
+                    HPOS="320"
+                    VPOS="467"
+                    WIDTH="30"
+                    HEIGHT="524"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_326cd3dd"
+                    
+                    BASELINE="355 465 364 979" 
+                    HPOS="330"
+                    VPOS="464"
+                    WIDTH="56"
+                    HEIGHT="514">
+            <Shape><Polygon POINTS="353 464 374 466 376 479 366 615 374 641 368 659 376 669 368 688 381 755 382 827 371 839 371 889 373 912 386 929 386 973 363 978 351 973 345 958 353 916 340 896 338 873 338 827 355 808 346 801 355 780 355 721 338 703 348 659 343 641 350 629 345 615 351 608 351 557 330 539 330 467"/></Shape>
+	    <String CONTENT="永 縣杜金瑩黎光順己丑阮得榮"
+                    HPOS="330"
+                    VPOS="464"
+                    WIDTH="56"
+                    HEIGHT="514"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_71892d4f"
+                    
+                    BASELINE="394 471 391 787" 
+                    HPOS="368"
+                    VPOS="469"
+                    WIDTH="41"
+                    HEIGHT="317">
+            <Shape><Polygon POINTS="392 469 404 477 399 525 409 548 409 608 397 657 404 781 389 786 377 781 377 711 368 688 377 664 368 629 369 534 379 487 373 471"/></Shape>
+	    <String CONTENT="阮治篤莫光寶己未程志森   丁未"
+                    HPOS="368"
+                    VPOS="469"
+                    WIDTH="41"
+                    HEIGHT="317"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e9dffca"
+                    
+                    BASELINE="416 465 424 980" 
+                    HPOS="395"
+                    VPOS="464"
+                    WIDTH="45"
+                    HEIGHT="515">
+            <Shape><Polygon POINTS="415 464 430 466 435 479 427 513 427 531 435 539 435 556 427 564 436 572 435 608 427 616 433 670 433 705 427 711 436 724 431 734 438 742 431 750 440 772 428 798 430 904 440 914 430 925 430 942 438 958 423 979 412 976 395 942 395 824 402 806 397 796 413 752 413 729 402 716 405 683 397 669 400 644 412 626 410 549 402 530 410 505 402 497 407 489 399 467"/></Shape>
+	    <String CONTENT="陶武香黎  壬辰阮伯㑏黎景興甲戌陳 黎  甲辰"
+                    HPOS="395"
+                    VPOS="464"
+                    WIDTH="45"
+                    HEIGHT="515"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0d55d8d"
+                    
+                    BASELINE="445 468 450 972" 
+                    HPOS="428"
+                    VPOS="467"
+                    WIDTH="39"
+                    HEIGHT="504">
+            <Shape><Polygon POINTS="443 467 463 469 453 494 463 513 458 574 464 603 454 649 464 683 456 703 456 827 458 902 466 911 467 952 449 971 433 968 438 956 431 943 438 911 431 904 430 808 440 777 433 750 440 742 433 734 438 723 428 696 430 642 440 603 438 528 430 516 438 498 433 471"/></Shape>
+	    <String CONTENT="阮倫黎永佑己未武輝琰     范貴適黎景興己亥"
+                    HPOS="428"
+                    VPOS="467"
+                    WIDTH="39"
+                    HEIGHT="504"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e615a56"
+                    
+                    BASELINE="475 466 478 966" 
+                    HPOS="458"
+                    VPOS="464"
+                    WIDTH="34"
+                    HEIGHT="501">
+            <Shape><Polygon POINTS="474 464 490 466 492 487 492 603 482 613 489 651 482 667 489 716 484 848 490 858 484 884 492 896 485 911 492 934 477 965 463 961 469 948 459 906 459 816 471 785 471 724 458 711 467 683 467 667 458 652 464 639 459 628 469 603 461 583 469 554 469 536 461 528 463 467"/></Shape>
+	    <String CONTENT="范楊鷹黎景興癸未阮泰黎洪德辛丑阮益斷黎洪德丁未"
+                    HPOS="458"
+                    VPOS="464"
+                    WIDTH="34"
+                    HEIGHT="501"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d7d6095"
+                    
+                    BASELINE="505 469 508 987" 
+                    HPOS="469"
+                    VPOS="467"
+                    WIDTH="51"
+                    HEIGHT="519">
+            <Shape><Polygon POINTS="503 467 518 474 512 502 517 526 510 536 510 633 520 724 518 783 512 791 520 808 512 853 512 955 518 979 507 986 484 983 494 958 487 947 495 938 489 919 499 907 482 884 490 862 487 827 471 804 469 682 489 662 482 634 497 616 490 580 497 564 489 538 495 494 490 471"/></Shape>
+	    <String CONTENT="壽昌縣阮光祿黎光順丙戌阮亨嘉黎洪順甲戌"
+                    HPOS="469"
+                    VPOS="467"
+                    WIDTH="51"
+                    HEIGHT="519"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e608c96"
+                    
+                    BASELINE="536 468 535 980" 
+                    HPOS="505"
+                    VPOS="467"
+                    WIDTH="44"
+                    HEIGHT="512">
+            <Shape><Polygon POINTS="535 467 548 469 549 479 543 495 549 508 549 562 541 588 548 603 539 611 541 708 549 716 549 763 539 790 539 821 548 835 539 847 541 894 548 901 541 909 539 945 549 974 533 979 505 974 505 893 515 883 523 852 513 827 523 804 523 723 513 706 515 642 523 634 523 619 505 583 518 469"/></Shape>
+	    <String CONTENT="阮璟莫廣和辛丑陳良能黎永治丙辰阮珽莫廣和辛丑"
+                    HPOS="505"
+                    VPOS="467"
+                    WIDTH="44"
+                    HEIGHT="512"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d7791d4b"
+                    
+                    BASELINE="566 468 562 971" 
+                    HPOS="518"
+                    VPOS="467"
+                    WIDTH="61"
+                    HEIGHT="503">
+            <Shape><Polygon POINTS="564 467 575 472 571 523 579 534 571 608 577 690 569 729 569 777 575 790 569 796 569 834 577 844 569 866 569 894 577 906 577 943 571 950 577 965 561 970 518 965 518 870 543 844 541 826 556 811 557 795 544 777 553 752 543 696 551 670 543 659 556 597 548 579 553 551 544 543 551 510 543 497 548 469"/></Shape>
+	    <String CONTENT="黎得望黎陽和丁丑陳賢黎龍德癸丑李陳 黎景興丙戌李陳𣛿黎景興己丑"
+                    HPOS="518"
+                    VPOS="467"
+                    WIDTH="61"
+                    HEIGHT="503"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e2a6dbd"
+                    
+                    BASELINE="590 468 596 980" 
+                    HPOS="572"
+                    VPOS="467"
+                    WIDTH="38"
+                    HEIGHT="512">
+            <Shape><Polygon POINTS="589 467 605 469 597 505 605 520 602 564 608 593 598 716 608 724 603 732 610 739 603 760 608 780 600 788 602 886 610 898 602 912 607 974 595 979 575 976 582 925 575 904 574 806 585 786 585 724 572 709 572 657 584 624 580 544 572 531 577 471"/></Shape>
+	    <String CONTENT="阮輝旺黎景興乙未黎藻莫明德己丑黃協心黎永壽辛丑"
+                    HPOS="572"
+                    VPOS="467"
+                    WIDTH="38"
+                    HEIGHT="512"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_048f92ce"
+                    
+                    BASELINE="617 465 623 979" 
+                    HPOS="602"
+                    VPOS="464"
+                    WIDTH="31"
+                    HEIGHT="514">
+            <Shape><Polygon POINTS="616 464 631 467 631 611 625 631 633 871 628 973 621 978 607 974 603 956 603 826 611 814 608 741 602 734 602 672 608 665 603 642 610 636 608 575 602 565 608 554 603 467"/></Shape>
+	    <String CONTENT="范光完黎正和甲戌范光容黎永盛丙戌范元寧黎    潘  黎景興丁丑"
+                    HPOS="602"
+                    VPOS="464"
+                    WIDTH="31"
+                    HEIGHT="514"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2e2dfea7"
+                    
+                    BASELINE="649 466 655 983" 
+                    HPOS="626"
+                    VPOS="464"
+                    WIDTH="39"
+                    HEIGHT="517">
+            <Shape><Polygon POINTS="647 464 661 466 662 474 657 552 664 590 656 624 664 669 656 709 665 729 665 786 657 801 664 927 659 945 665 955 664 976 654 981 638 976 641 963 629 945 629 862 638 845 628 829 639 816 639 772 628 755 626 721 633 691 626 634 638 621 631 574 636 549 628 534 634 508 629 467"/></Shape>
+	    <String CONTENT="阮榮盛黎永壽己亥黎世祿莫 丙戌杜文沆黎弘順甲戌"
+                    HPOS="626"
+                    VPOS="464"
+                    WIDTH="39"
+                    HEIGHT="517"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a4b8f9af"
+                    
+                    BASELINE="673 467 674 984" 
+                    HPOS="661"
+                    VPOS="466"
+                    WIDTH="32"
+                    HEIGHT="517">
+            <Shape><Polygon POINTS="672 466 688 467 692 476 680 507 687 526 679 534 679 636 687 646 685 703 693 719 687 745 693 768 690 811 682 826 693 858 685 880 693 896 687 922 692 932 682 950 688 979 672 983 661 947 661 829 667 821 667 768 661 757 667 745 661 723 661 644 667 637 661 626 667 600 661 469"/></Shape>
+	    <String CONTENT="阮用乂莫崇康甲戌杜文總黎陽和庚辰杜文綸黎永壽己亥"
+                    HPOS="661"
+                    VPOS="466"
+                    WIDTH="32"
+                    HEIGHT="517"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_40c66c5d"
+                    
+                    BASELINE="703 470 708 1002" 
+                    HPOS="670"
+                    VPOS="469"
+                    WIDTH="49"
+                    HEIGHT="532">
+            <Shape><Polygon POINTS="701 469 716 471 710 507 716 579 708 641 718 685 710 698 716 718 710 732 716 750 710 821 719 842 711 863 718 898 711 912 711 965 719 992 706 1001 688 994 697 961 685 942 685 922 697 909 685 880 695 860 685 831 695 819 688 778 695 723 685 703 687 628 670 608 670 472"/></Shape>
+	    <String CONTENT="阮春巖黎景統己未阮謙光黎  癸未阮暉   上  以下"
+                    HPOS="670"
+                    VPOS="469"
+                    WIDTH="49"
+                    HEIGHT="532"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_af6d7152"
+                    
+                    BASELINE="725 470 730 979" 
+                    HPOS="710"
+                    VPOS="469"
+                    WIDTH="31"
+                    HEIGHT="509">
+            <Shape><Polygon POINTS="724 469 737 474 737 503 731 510 737 605 731 611 731 634 732 714 739 721 732 752 739 916 734 950 741 961 729 978 713 970 713 860 723 845 711 806 721 786 721 732 711 713 718 691 711 647 719 634 719 595 713 588 718 564 710 507 718 497 713 489 719 471"/></Shape>
+	    <String CONTENT="阮富褒黎 德癸丑嚴伯挺     阮   阮"
+                    HPOS="710"
+                    VPOS="469"
+                    WIDTH="31"
+                    HEIGHT="509"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8c9ae6c0"
+                    
+                    BASELINE="750 468 750 981" 
+                    HPOS="734"
+                    VPOS="467"
+                    WIDTH="31"
+                    HEIGHT="512">
+            <Shape><Polygon POINTS="749 467 762 469 765 484 759 503 765 521 765 616 757 633 765 683 757 749 764 772 757 793 762 884 759 973 749 979 736 974 741 956 734 950 741 922 734 904 734 827 741 821 734 760 741 747 734 713 734 613 741 585 734 579 741 561 734 531 734 494 741 482 736 471"/></Shape>
+	    <String CONTENT="吳惟垣黎景興己丑吳惟澂黎景興乙未黎登舉黎景興己亥/阮 黎光順癸未"
+                    HPOS="734"
+                    VPOS="467"
+                    WIDTH="31"
+                    HEIGHT="512"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7d1a7bfd"
+                    
+                    BASELINE="804 469 817 986" 
+                    HPOS="785"
+                    VPOS="467"
+                    WIDTH="44"
+                    HEIGHT="517">
+            <Shape><Polygon POINTS="803 467 819 469 814 510 821 531 811 552 811 593 818 600 813 629 824 660 819 709 826 749 819 759 818 832 824 847 821 953 829 973 816 984 801 981 791 952 788 829 801 801 786 780 785 690 793 660 785 631 796 618 796 601 788 595 795 583 795 531 786 518 791 469"/></Shape>
+	    <String CONTENT="永順縣阮廷完黎正和戊辰阮胡熲黎龍德癸丑"
+                    HPOS="785"
+                    VPOS="467"
+                    WIDTH="44"
+                    HEIGHT="517"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4a2dc200"
+                    
+                    BASELINE="837 475 845 985" 
+                    HPOS="816"
+                    VPOS="474"
+                    WIDTH="39"
+                    HEIGHT="510">
+            <Shape><Polygon POINTS="836 474 850 476 845 497 852 574 845 675 854 695 847 726 847 777 855 783 849 819 854 953 844 984 827 979 829 961 822 955 821 831 832 790 821 775 831 755 822 742 821 709 821 695 831 683 819 649 824 616 816 548 827 512 827 482 821 476"/></Shape>
+	    <String CONTENT="阮稚黎  丙戌阮用莫洪寧壬辰阮能紹黎福泰癸未"
+                    HPOS="816"
+                    VPOS="474"
+                    WIDTH="39"
+                    HEIGHT="510"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_990fbcd7"
+                    
+                    BASELINE="867 469 870 978" 
+                    HPOS="832"
+                    VPOS="467"
+                    WIDTH="51"
+                    HEIGHT="509">
+            <Shape><Polygon POINTS="865 467 878 469 881 480 881 608 875 616 881 669 873 677 873 714 883 786 875 795 880 850 875 971 868 976 852 971 855 953 845 935 852 875 844 862 852 834 834 808 839 796 832 682 850 664 845 634 855 605 855 539 847 508 854 469"/></Shape>
+	    <String CONTENT="嚴弘達莫延成癸未范壽祉莫崇康丁丑裴興運莫永定丁未"
+                    HPOS="832"
+                    VPOS="467"
+                    WIDTH="51"
+                    HEIGHT="509"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0703aab5"
+                    
+                    BASELINE="954 470 958 820" 
+                    HPOS="939"
+                    VPOS="469"
+                    WIDTH="29"
+                    HEIGHT="350">
+            <Shape><Polygon POINTS="953 469 966 471 958 603 968 642 960 665 960 691 966 698 960 705 968 723 962 775 966 796 957 819 940 796 950 767 940 700 950 678 940 665 948 624 948 543 939 531 939 471"/></Shape>
+	    <String CONTENT="壽昌縣裴元黎端慶乙丑"
+                    HPOS="939"
+                    VPOS="469"
+                    WIDTH="29"
+                    HEIGHT="350"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39cc5442"
+                    
+                    BASELINE="1006 469 1010 1036" 
+                    HPOS="989"
+                    VPOS="467"
+                    WIDTH="35"
+                    HEIGHT="568">
+            <Shape><Polygon POINTS="1004 467 1020 469 1022 480 1022 528 1016 534 1022 552 1022 660 1016 677 1024 685 1016 696 1024 714 1016 760 1024 773 1016 783 1016 842 1024 930 1017 937 1019 1019 1009 1035 991 1030 991 943 998 925 991 917 998 898 991 891 989 757 998 747 998 724 991 718 989 685 998 677 998 662 989 633 996 615 996 587 989 579 996 487 989 479 996 469"/></Shape>
+	    <String CONTENT="某公之後也不然則其鄉若縣若州者傳有之其則不遠"
+                    HPOS="989"
+                    VPOS="467"
+                    WIDTH="35"
+                    HEIGHT="568"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3743a663"
+                    
+                    BASELINE="1032 463 1032 1698" 
+                    HPOS="1014"
+                    VPOS="462"
+                    WIDTH="36"
+                    HEIGHT="1235">
+            <Shape><Polygon POINTS="1030 462 1048 466 1050 502 1050 1671 1045 1694 1030 1697 1019 1689 1022 1676 1014 1663 1020 1622 1014 1590 1014 1488 1022 1473 1014 1462 1014 1429 1022 1421 1016 1377 1024 1369 1014 1356 1020 1347 1014 1295 1024 1285 1014 1257 1014 1233 1024 1210 1016 1197 1024 1177 1014 1141 1014 1094 1022 1084 1014 1076 1022 1063 1014 1040 1022 1004 1017 938 1024 932 1020 860 1014 853 1022 832 1014 793 1024 775 1017 760 1024 750 1024 554 1016 536 1022 528 1020 466"/></Shape>
+	    <String CONTENT="縣社凡以從簡約便觀覽爾非敢有所先後也懷之士達於學因登斯亭而覽斯碑試為一一歷 之則某公某之先也某則"
+                    HPOS="1014"
+                    VPOS="462"
+                    WIDTH="36"
+                    HEIGHT="1235"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_85618555"
+                    
+                    BASELINE="1064 470 1067 1705" 
+                    HPOS="1043"
+                    VPOS="469"
+                    WIDTH="36"
+                    HEIGHT="1235">
+            <Shape><Polygon POINTS="1063 469 1078 474 1071 510 1078 526 1071 557 1078 580 1078 610 1071 616 1071 665 1078 672 1078 729 1071 742 1071 795 1078 801 1071 817 1078 1028 1071 1051 1078 1066 1071 1074 1078 1097 1073 1167 1079 1174 1073 1182 1079 1231 1073 1259 1073 1303 1079 1310 1073 1333 1073 1405 1079 1411 1073 1429 1073 1662 1079 1673 1066 1704 1045 1699 1045 1647 1052 1640 1045 1634 1052 1601 1045 1583 1045 1478 1052 1472 1045 1464 1045 1351 1052 1343 1045 1329 1052 1311 1045 1302 1052 1293 1045 1285 1052 1189 1045 1143 1052 1131 1045 1076 1050 1010 1043 1001 1050 956 1043 943 1050 925 1043 901 1050 858 1043 829 1050 798 1047 472"/></Shape>
+	    <String CONTENT="錄寫盛第 有懷自國朝始是以以前碑誌未 焉愛既謀郡學而新之特建碑亭于學之陰碑前朝之登甲科者分甲第歸"
+                    HPOS="1043"
+                    VPOS="469"
+                    WIDTH="36"
+                    HEIGHT="1235"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcd06067"
+                    
+                    BASELINE="896 478 897 991" 
+                    HPOS="875"
+                    VPOS="477"
+                    WIDTH="36"
+                    HEIGHT="512">
+            <Shape><Polygon POINTS="894 477 911 484 911 606 904 621 911 690 904 757 911 785 904 799 909 981 896 989 875 986 875 883 881 875 875 832 885 819 885 773 875 762 875 680 885 670 876 657 885 637 880 480"/></Shape>
+	    <String CONTENT="阮仲瑩黎統元癸未阮維禎黎  辛丑劉文源黎端慶乙丑"
+                    HPOS="875"
+                    VPOS="477"
+                    WIDTH="36"
+                    HEIGHT="512"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_eb44609a"
+                    
+                    BASELINE="1090 472 1093 1703" 
+                    HPOS="1073"
+                    VPOS="471"
+                    WIDTH="31"
+                    HEIGHT="1231">
+            <Shape><Polygon POINTS="1089 471 1102 472 1097 1069 1104 1084 1104 1689 1092 1702 1076 1696 1074 1666 1074 1503 1081 1496 1074 1480 1074 1426 1081 1418 1074 1406 1081 1367 1074 1357 1074 1331 1081 1325 1074 1257 1081 1233 1074 1207 1079 1174 1073 1084 1079 1064 1079 948 1073 914 1073 741 1079 718 1079 641 1073 634 1079 598 1076 472"/></Shape>
+	    <String CONTENT="序踐古人之迹其當不在斯乎懷之兼轄慈於山古名邑 其統壽永古為奉天府聲名文 之所尚焉而皆隸於懷故"
+                    HPOS="1073"
+                    VPOS="471"
+                    WIDTH="31"
+                    HEIGHT="1231"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bd8d84d"
+                    
+                    BASELINE="1114 469 1121 1701" 
+                    HPOS="1096"
+                    VPOS="467"
+                    WIDTH="75"
+                    HEIGHT="1232">
+            <Shape><Polygon POINTS="1112 467 1164 469 1164 528 1153 539 1164 561 1164 593 1153 621 1153 709 1163 729 1155 742 1155 793 1166 816 1155 835 1161 907 1155 919 1155 955 1156 997 1166 1015 1156 1027 1168 1056 1156 1076 1156 1110 1168 1127 1169 1203 1164 1271 1158 1277 1158 1347 1166 1356 1158 1393 1169 1405 1163 1432 1169 1470 1160 1504 1171 1547 1160 1572 1166 1642 1160 1686 1168 1694 1120 1699 1102 1694 1102 736 1096 695 1101 469"/></Shape>
+	    <String CONTENT="自古  科之選預斯選者有題名碑豈徒侈崇親哉碑必於國學以勸士也州縣學又州縣之士之所朝而夕者所謂由?"
+                    HPOS="1096"
+                    VPOS="467"
+                    WIDTH="75"
+                    HEIGHT="1232"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78180674"
+                    
+                    BASELINE="381 537 381 606" 
+                    HPOS="368"
+                    VPOS="536"
+                    WIDTH="19"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="379 536 387 538 387 598 379 605 368 601 369 539"/></Shape>
+	    <String CONTENT="坊以下"
+                    HPOS="368"
+                    VPOS="536"
+                    WIDTH="19"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d13b01de"
+                    
+                    BASELINE="522 540 524 598" 
+                    HPOS="502"
+                    VPOS="539"
+                    WIDTH="28"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="521 539 530 541 523 597 502 592 503 543"/></Shape>
+	    <String CONTENT="上葛社以下"
+                    HPOS="502"
+                    VPOS="539"
+                    WIDTH="28"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e6936cb"
+                    
+                    BASELINE="858 546 859 573" 
+                    HPOS="818"
+                    VPOS="544"
+                    WIDTH="40"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="857 544 858 572 819 570 818 549"/></Shape>
+	    <String CONTENT="四德社"
+                    HPOS="818"
+                    VPOS="544"
+                    WIDTH="40"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c6d1900"
+                    
+                    BASELINE="887 546 885 587" 
+                    HPOS="878"
+                    VPOS="544"
+                    WIDTH="8"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="886 544 883 585 878 546"/></Shape>
+	    <String CONTENT="?  社"
+                    HPOS="878"
+                    VPOS="544"
+                    WIDTH="8"
+                    HEIGHT="41"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83b03fbc"
+                    
+                    BASELINE="697 560 697 615" 
+                    HPOS="665"
+                    VPOS="559"
+                    WIDTH="30"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="695 559 695 613 667 610 665 562"/></Shape>
+	    <String CONTENT="下安 以下"
+                    HPOS="665"
+                    VPOS="559"
+                    WIDTH="30"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_83dcd81f"
+                    
+                    BASELINE="828 575 829 623" 
+                    HPOS="821"
+                    VPOS="574"
+                    WIDTH="6"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="827 574 827 621 821 575"/></Shape>
+	    <String CONTENT="坊以下"
+                    HPOS="821"
+                    VPOS="574"
+                    WIDTH="6"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_124114bd"
+                    
+                    BASELINE="349 723 347 791" 
+                    HPOS="320"
+                    VPOS="721"
+                    WIDTH="33"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="348 721 353 785 346 790 323 785 320 723"/></Shape>
+	    <String CONTENT="工坊以下"
+                    HPOS="320"
+                    VPOS="721"
+                    WIDTH="33"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_975503ad"
+                    
+                    BASELINE="408 725 407 751" 
+                    HPOS="377"
+                    VPOS="724"
+                    WIDTH="36"
+                    HEIGHT="26">
+            <Shape><Polygon POINTS="407 724 413 742 405 750 377 744 377 724"/></Shape>
+	    <String CONTENT="司樂坊"
+                    HPOS="377"
+                    VPOS="724"
+                    WIDTH="36"
+                    HEIGHT="26"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1207db79"
+                    
+                    BASELINE="467 728 465 783" 
+                    HPOS="456"
+                    VPOS="727"
+                    WIDTH="16"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="466 727 472 777 464 781 456 777 456 729"/></Shape>
+	    <String CONTENT="/  村以下"
+                    HPOS="456"
+                    VPOS="727"
+                    WIDTH="16"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_03d62aa5"
+                    
+                    BASELINE="494 724 494 786" 
+                    HPOS="456"
+                    VPOS="723"
+                    WIDTH="46"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="492 723 502 724 502 781 492 785 456 780 459 726"/></Shape>
+	    <String CONTENT="村以下"
+                    HPOS="456"
+                    VPOS="723"
+                    WIDTH="46"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b41c9e5"
+                    
+                    BASELINE="580 725 580 791" 
+                    HPOS="549"
+                    VPOS="724"
+                    WIDTH="40"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="579 724 589 726 589 783 579 790 549 783 551 727"/></Shape>
+	    <String CONTENT="富演社以下"
+                    HPOS="549"
+                    VPOS="724"
+                    WIDTH="40"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20fcd75c"
+                    
+                    BASELINE="638 727 638 770" 
+                    HPOS="628"
+                    VPOS="726"
+                    WIDTH="18"
+                    HEIGHT="42">
+            <Shape><Polygon POINTS="636 726 646 731 646 752 636 768 628 755 628 729"/></Shape>
+	    <String CONTENT="社"
+                    HPOS="628"
+                    VPOS="726"
+                    WIDTH="18"
+                    HEIGHT="42"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b3570abb"
+                    
+                    BASELINE="799 729 796 762" 
+                    HPOS="785"
+                    VPOS="727"
+                    WIDTH="21"
+                    HEIGHT="33">
+            <Shape><Polygon POINTS="798 727 806 739 795 760 785 755 785 729"/></Shape>
+	    <String CONTENT="坊"
+                    HPOS="785"
+                    VPOS="727"
+                    WIDTH="21"
+                    HEIGHT="33"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31f9ef53"
+                    
+                    BASELINE="856 728 856 765" 
+                    HPOS="826"
+                    VPOS="727"
+                    WIDTH="37"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="855 727 863 739 855 763 831 760 826 731"/></Shape>
+	    <String CONTENT="東鄂社"
+                    HPOS="826"
+                    VPOS="727"
+                    WIDTH="37"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e99d12dc"
+                    
+                    BASELINE="886 731 889 792" 
+                    HPOS="876"
+                    VPOS="729"
+                    WIDTH="15"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="885 729 891 731 888 791 876 759 876 731"/></Shape>
+	    <String CONTENT="上葛社"
+                    HPOS="876"
+                    VPOS="729"
+                    WIDTH="15"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_478851a9"
+                    
+                    BASELINE="944 728 938 775" 
+                    HPOS="930"
+                    VPOS="727"
+                    WIDTH="17"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="942 727 947 739 937 773 930 759 934 729"/></Shape>
+	    <String CONTENT="東 坊"
+                    HPOS="930"
+                    VPOS="727"
+                    WIDTH="17"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57e0b5cb"
+                    
+                    BASELINE="954 828 958 1492" 
+                    HPOS="927"
+                    VPOS="827"
+                    WIDTH="39"
+                    HEIGHT="664">
+            <Shape><Polygon POINTS="953 827 965 829 958 1058 965 1074 960 1140 966 1158 960 1179 960 1370 966 1395 957 1491 944 1488 948 1459 929 1429 929 1419 944 1405 932 1372 948 1356 948 1267 934 1253 937 1238 930 1230 940 1218 934 1194 940 1179 927 1158 927 1087 939 1055 930 1042 932 1017 945 1001 934 988 930 952 932 896 940 884 937 831"/></Shape>
+	    <String CONTENT="第三名慈廉縣阮貴德黎永治丙辰壽昌縣武晠黎正和乙丑"
+                    HPOS="927"
+                    VPOS="827"
+                    WIDTH="39"
+                    HEIGHT="664"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cde4bdd"
+                    
+                    BASELINE="409 899 410 951" 
+                    HPOS="374"
+                    VPOS="898"
+                    WIDTH="39"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="407 898 413 906 409 950 392 947 376 919 374 901"/></Shape>
+	    <String CONTENT="坊"
+                    HPOS="374"
+                    VPOS="898"
+                    WIDTH="39"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d87161c"
+                    
+                    BASELINE="522 911 523 946" 
+                    HPOS="490"
+                    VPOS="909"
+                    WIDTH="40"
+                    HEIGHT="36">
+            <Shape><Polygon POINTS="521 909 530 919 521 945 497 942 490 912"/></Shape>
+	    <String CONTENT="黃舍社"
+                    HPOS="490"
+                    VPOS="909"
+                    WIDTH="40"
+                    HEIGHT="36"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bed5a325"
+                    
+                    BASELINE="639 910 635 954" 
+                    HPOS="626"
+                    VPOS="909"
+                    WIDTH="20"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="638 909 646 940 634 953 626 938 628 911"/></Shape>
+	    <String CONTENT="池社"
+                    HPOS="626"
+                    VPOS="909"
+                    WIDTH="20"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ddc6133a"
+                    
+                    BASELINE="722 916 719 981" 
+                    HPOS="711"
+                    VPOS="914"
+                    WIDTH="10"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="721 914 718 979 711 963 713 916"/></Shape>
+	    <String CONTENT="社以下           莫光寶丙辰"
+                    HPOS="711"
+                    VPOS="914"
+                    WIDTH="10"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3982a11e"
+                    
+                    BASELINE="765 912 766 982" 
+                    HPOS="754"
+                    VPOS="911"
+                    WIDTH="19"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="764 911 773 914 772 974 765 981 754 976 757 914"/></Shape>
+	    <String CONTENT="社以下"
+                    HPOS="754"
+                    VPOS="911"
+                    WIDTH="19"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_230ee7ef"
+                    
+                    BASELINE="798 912 798 962" 
+                    HPOS="790"
+                    VPOS="911"
+                    WIDTH="18"
+                    HEIGHT="50">
+            <Shape><Polygon POINTS="796 911 806 912 801 929 808 942 796 961 790 950 790 914"/></Shape>
+	    <String CONTENT="國豪坊"
+                    HPOS="790"
+                    VPOS="911"
+                    WIDTH="18"
+                    HEIGHT="50"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cacd91bb"
+                    
+                    BASELINE="828 911 827 947" 
+                    HPOS="736"
+                    VPOS="907"
+                    WIDTH="100"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="827 909 836 912 836 925 834 940 826 945 736 937 739 907"/></Shape>
+	    <String CONTENT="河口坊"
+                    HPOS="736"
+                    VPOS="907"
+                    WIDTH="100"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dc24ca37"
+                    
+                    BASELINE="859 909 859 940" 
+                    HPOS="849"
+                    VPOS="907"
+                    WIDTH="9"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="858 907 858 938 849 935 849 911"/></Shape>
+	    <String CONTENT="?社"
+                    HPOS="849"
+                    VPOS="907"
+                    WIDTH="9"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4efd8ddf"
+                    
+                    BASELINE="912 908 912 980" 
+                    HPOS="904"
+                    VPOS="907"
+                    WIDTH="18"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="911 907 919 909 922 929 919 976 911 979 904 970 908 911"/></Shape>
+	    <String CONTENT="下  以下"
+                    HPOS="904"
+                    VPOS="907"
+                    WIDTH="18"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_63ae1e30"
+                    
+                    BASELINE="885 917 885 987" 
+                    HPOS="875"
+                    VPOS="916"
+                    WIDTH="16"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="883 916 891 919 891 971 883 986 875 976 876 919"/></Shape>
+	    <String CONTENT="仁美社以下"
+                    HPOS="875"
+                    VPOS="916"
+                    WIDTH="16"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0835a95"
+                    
+                    BASELINE="970 914 968 962" 
+                    HPOS="960"
+                    VPOS="912"
+                    WIDTH="8"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="968 912 966 961 960 914"/></Shape>
+	    <String CONTENT="日昭坊"
+                    HPOS="960"
+                    VPOS="912"
+                    WIDTH="8"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_168991de"
+                    
+                    BASELINE="329 1012 344 1673" 
+                    HPOS="310"
+                    VPOS="1010"
+                    WIDTH="46"
+                    HEIGHT="661">
+            <Shape><Polygon POINTS="328 1010 345 1014 338 1028 345 1038 340 1068 346 1082 337 1218 350 1259 351 1339 340 1352 340 1367 351 1388 341 1405 341 1449 345 1578 351 1586 346 1621 356 1662 343 1671 322 1668 332 1629 320 1596 328 1450 317 1441 327 1410 317 1397 322 1379 315 1372 325 1325 314 1302 322 1158 310 1110 320 1092 312 1079 319 1022 310 1012"/></Shape>
+	    <String CONTENT="裴世榮     阮  黎永"
+                    HPOS="310"
+                    VPOS="1010"
+                    WIDTH="46"
+                    HEIGHT="661"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_044a5185"
+                    
+                    BASELINE="355 1006 369 1663" 
+                    HPOS="338"
+                    VPOS="1004"
+                    WIDTH="53"
+                    HEIGHT="658">
+            <Shape><Polygon POINTS="353 1004 377 1006 368 1053 379 1102 373 1118 379 1148 369 1161 377 1203 371 1259 379 1269 374 1289 382 1295 373 1325 373 1361 382 1370 374 1392 386 1405 377 1437 387 1446 376 1468 382 1483 376 1511 391 1586 379 1609 379 1657 368 1662 355 1658 348 1645 353 1590 346 1580 346 1522 356 1508 358 1455 343 1436 343 1414 356 1395 341 1369 341 1354 355 1341 353 1274 341 1251 346 1223 338 1210 338 1187 351 1172 341 1149 350 1127 350 1078 340 1061 348 1048 340 1033 341 1007"/></Shape>
+	    <String CONTENT="阮登龍黎永治丙 張廷瑄黎永佑己未范密黎洪德癸丑阮秉德"
+                    HPOS="338"
+                    VPOS="1004"
+                    WIDTH="53"
+                    HEIGHT="658"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cb85ae4"
+                    
+                    BASELINE="418 1007 421 1699" 
+                    HPOS="392"
+                    VPOS="1006"
+                    WIDTH="41"
+                    HEIGHT="691">
+            <Shape><Polygon POINTS="417 1006 431 1017 425 1028 431 1037 425 1064 431 1120 431 1164 425 1171 431 1187 425 1200 425 1347 433 1361 427 1370 427 1446 433 1460 427 1619 433 1629 433 1684 420 1697 410 1693 410 1678 394 1662 394 1608 410 1590 410 1570 400 1560 410 1522 395 1500 394 1480 410 1455 397 1426 409 1403 394 1367 409 1339 409 1262 392 1239 402 1205 392 1194 399 1149 392 1141 392 1114 397 1081 409 1066 397 1050 404 1028 392 1007"/></Shape>
+	    <String CONTENT="楊唯一莫大正戊戌譚勸  和甲辰譚功莫端泰丙戌吳慥"
+                    HPOS="392"
+                    VPOS="1006"
+                    WIDTH="41"
+                    HEIGHT="691"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8989ef49"
+                    
+                    BASELINE="443 1003 454 1692" 
+                    HPOS="422"
+                    VPOS="1002"
+                    WIDTH="47"
+                    HEIGHT="689">
+            <Shape><Polygon POINTS="441 1002 458 1007 448 1043 459 1055 461 1094 461 1159 453 1176 461 1192 451 1208 461 1225 454 1246 463 1254 464 1295 453 1388 459 1446 454 1452 466 1465 458 1485 464 1491 456 1500 458 1660 469 1684 453 1691 430 1688 438 1634 428 1619 427 1552 440 1536 440 1495 430 1482 435 1462 427 1454 436 1442 425 1411 425 1370 435 1351 423 1338 422 1295 422 1267 433 1231 428 1207 435 1200 428 1195 427 1161 433 1153 433 1122 423 1084 431 1050 428 1004"/></Shape>
+	    <String CONTENT="費璘黎光 丙戌黎金桂莫延成 辰黎金榜莫洪寧壬辰武陳緒黎永佑己"
+                    HPOS="422"
+                    VPOS="1002"
+                    WIDTH="47"
+                    HEIGHT="689"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4317ef3c"
+                    
+                    BASELINE="473 1006 480 1702" 
+                    HPOS="456"
+                    VPOS="1004"
+                    WIDTH="38"
+                    HEIGHT="697">
+            <Shape><Polygon POINTS="472 1004 489 1009 489 1149 479 1176 490 1199 481 1212 490 1244 482 1271 482 1292 490 1300 490 1347 482 1374 492 1385 482 1398 482 1524 492 1565 484 1578 484 1680 494 1696 479 1701 464 1697 469 1681 459 1663 459 1539 467 1496 458 1486 467 1457 458 1446 458 1380 469 1346 469 1305 461 1295 469 1259 459 1238 469 1228 469 1207 461 1199 469 1179 459 1156 467 1135 458 1123 467 1107 461 1056 467 1030 456 1007"/></Shape>
+	    <String CONTENT="阮畜黎統元癸未武暄黎永盛壬辰武暉黎永盛壬辰陳廷楸黎保泰甲辰"
+                    HPOS="456"
+                    VPOS="1004"
+                    WIDTH="38"
+                    HEIGHT="697"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ad712ca6"
+                    
+                    BASELINE="499 1014 513 1695" 
+                    HPOS="481"
+                    VPOS="1012"
+                    WIDTH="47"
+                    HEIGHT="682">
+            <Shape><Polygon POINTS="497 1012 517 1014 518 1028 508 1048 518 1060 513 1109 520 1148 508 1161 521 1181 510 1208 517 1218 510 1236 518 1267 512 1274 513 1298 525 1313 525 1359 515 1369 520 1375 513 1388 523 1459 517 1498 528 1526 520 1558 525 1573 518 1581 518 1616 525 1621 520 1689 512 1694 489 1688 499 1650 487 1617 492 1565 484 1465 490 1385 482 1369 497 1352 495 1307 482 1292 492 1254 481 1223 494 1205 487 1192 494 1179 487 1015"/></Shape>
+	    <String CONTENT="阮有登黎景治丁未阮克文黎永祚戊辰阮崇齯黎洪德乙未阮世寧莫"
+                    HPOS="481"
+                    VPOS="1012"
+                    WIDTH="47"
+                    HEIGHT="682"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_54d52ebd"
+                    
+                    BASELINE="531 1013 540 1341" 
+                    HPOS="467"
+                    VPOS="1012"
+                    WIDTH="87"
+                    HEIGHT="327">
+            <Shape><Polygon POINTS="530 1012 546 1014 538 1037 546 1048 539 1073 549 1084 541 1130 551 1148 544 1172 551 1208 543 1226 554 1277 546 1290 546 1334 539 1339 471 1338 467 1226 490 1200 499 1166 492 1136 497 1089 485 1066 492 1027 487 1017"/></Shape>
+	    <String CONTENT="陶黃實黎正和丁丑阮世歷黎景興乙未"
+                    HPOS="467"
+                    VPOS="1012"
+                    WIDTH="87"
+                    HEIGHT="327"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efdf24eb"
+                    
+                    BASELINE="561 1007 567 1697" 
+                    HPOS="539"
+                    VPOS="1006"
+                    WIDTH="38"
+                    HEIGHT="690">
+            <Shape><Polygon POINTS="559 1006 572 1007 566 1020 572 1048 572 1151 566 1163 574 1177 567 1347 575 1370 569 1390 569 1519 577 1691 566 1696 554 1691 551 1653 544 1647 544 1547 556 1522 548 1503 554 1437 543 1423 541 1336 553 1280 549 1235 541 1223 553 1208 544 1174 551 1146 539 1128 551 1110 549 1084 539 1066 548 1051 539 1027 543 1007"/></Shape>
+	    <String CONTENT="裴文貞黎永壽己亥阮光惠莫大正乙未   阮羽"
+                    HPOS="539"
+                    VPOS="1006"
+                    WIDTH="38"
+                    HEIGHT="690"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8b71950a"
+                    
+                    BASELINE="588 1006 600 1696" 
+                    HPOS="567"
+                    VPOS="1004"
+                    WIDTH="46"
+                    HEIGHT="690">
+            <Shape><Polygon POINTS="587 1004 602 1015 605 1167 598 1181 605 1205 598 1235 605 1241 597 1259 608 1295 598 1341 598 1393 600 1491 608 1521 602 1531 603 1617 611 1626 603 1675 613 1689 598 1694 577 1691 582 1666 575 1660 582 1650 575 1637 574 1583 580 1573 574 1545 584 1522 580 1490 572 1482 582 1452 572 1439 571 1398 571 1361 580 1338 571 1325 569 1298 569 1251 579 1231 575 1202 567 1194 567 1158 577 1148 571 1097 575 1053 569 1043 575 1007"/></Shape>
+	    <String CONTENT="華貴欽黎景興癸丑阮珩莫大正壬辰吳靖   甲辰阮琬莫"
+                    HPOS="567"
+                    VPOS="1004"
+                    WIDTH="46"
+                    HEIGHT="690"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da9f350a"
+                    
+                    BASELINE="616 1011 628 1684" 
+                    HPOS="598"
+                    VPOS="1010"
+                    WIDTH="40"
+                    HEIGHT="673">
+            <Shape><Polygon POINTS="615 1010 629 1012 629 1051 623 1058 631 1109 626 1187 633 1200 626 1392 636 1416 628 1437 629 1483 638 1501 638 1526 629 1537 636 1647 626 1683 605 1678 613 1634 605 1619 603 1529 615 1514 615 1491 613 1452 602 1441 600 1392 600 1359 611 1346 608 1277 598 1256 605 1243 598 1228 605 1205 600 1185 608 1177 602 1012"/></Shape>
+	    <String CONTENT="阮廷碩黎景興己亥阮光被莫大正戊戌阮公基黎正和丁丑"
+                    HPOS="598"
+                    VPOS="1010"
+                    WIDTH="40"
+                    HEIGHT="673"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa9da7b5"
+                    
+                    BASELINE="651 1007 652 1698" 
+                    HPOS="629"
+                    VPOS="1006"
+                    WIDTH="35"
+                    HEIGHT="691">
+            <Shape><Polygon POINTS="649 1006 659 1010 656 1040 664 1050 656 1061 664 1112 664 1163 656 1172 664 1208 664 1316 656 1336 656 1380 664 1390 656 1405 664 1498 656 1521 656 1624 664 1671 651 1697 634 1694 638 1686 629 1678 641 1640 629 1617 629 1539 639 1526 629 1485 629 1434 636 1418 629 1365 643 1338 643 1259 629 1246 636 1207 629 1187 643 1174 643 1102 631 1091 629 1009"/></Shape>
+	    <String CONTENT="阮文濯黎德隆辛未范麟定黎弘順甲戌范顯名黎  丙戌潘榮福黎  乙丑"
+                    HPOS="629"
+                    VPOS="1006"
+                    WIDTH="35"
+                    HEIGHT="691"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7fd721e9"
+                    
+                    BASELINE="669 1011 674 1704" 
+                    HPOS="656"
+                    VPOS="1010"
+                    WIDTH="36"
+                    HEIGHT="692">
+            <Shape><Polygon POINTS="667 1010 683 1012 680 1030 690 1040 682 1066 690 1082 690 1135 683 1145 690 1210 682 1225 690 1235 683 1254 692 1271 692 1333 682 1343 682 1468 688 1557 683 1629 692 1637 692 1657 683 1697 672 1702 659 1699 669 1680 659 1648 665 1639 659 1630 659 1521 669 1509 669 1473 657 1457 657 1419 667 1403 657 1383 657 1357 667 1347 659 1326 667 1308 659 1238 664 1217 656 1190 656 1172 665 1159 665 1086 656 1074 664 1053 659 1014"/></Shape>
+	    <String CONTENT="杜公纘黎正和癸亥阮名賢黎永盛戊戌阮蘭黎洪德壬辰陳璿"
+                    HPOS="656"
+                    VPOS="1010"
+                    WIDTH="36"
+                    HEIGHT="692"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b340ae1d"
+                    
+                    BASELINE="701 1016 707 1164" 
+                    HPOS="685"
+                    VPOS="1015"
+                    WIDTH="36"
+                    HEIGHT="148">
+            <Shape><Polygon POINTS="700 1015 715 1017 710 1042 718 1050 711 1074 718 1102 713 1122 719 1130 715 1145 721 1158 706 1163 690 1154 697 1055 687 1045 685 1019"/></Shape>
+	    <String CONTENT="黃曰愛"
+                    HPOS="685"
+                    VPOS="1015"
+                    WIDTH="36"
+                    HEIGHT="148"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_686c1865"
+                    
+                    BASELINE="772 1011 793 1705" 
+                    HPOS="742"
+                    VPOS="1010"
+                    WIDTH="74"
+                    HEIGHT="694">
+            <Shape><Polygon POINTS="770 1010 796 1012 785 1061 798 1079 786 1110 801 1166 803 1235 786 1256 796 1269 790 1369 808 1393 808 1410 793 1434 793 1478 803 1491 796 1503 804 1522 796 1536 796 1591 804 1601 798 1645 816 1678 791 1704 754 1702 750 1578 764 1560 755 1540 775 1501 768 1475 773 1452 760 1436 757 1413 765 1397 759 1375 765 1351 742 1331 742 1295 759 1277 765 1254 759 1185 767 1176 760 1153 767 1117 765 1076 752 1043 762 1027 757 1012"/></Shape>
+	    <String CONTENT="楊阮貺黎景興壬辰阮子美黎端慶乙丑鄧公茂黎保泰辛丑阮惟宜黎景興"
+                    HPOS="742"
+                    VPOS="1010"
+                    WIDTH="74"
+                    HEIGHT="694"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80581d06"
+                    
+                    BASELINE="752 1023 756 1702" 
+                    HPOS="723"
+                    VPOS="1022"
+                    WIDTH="45"
+                    HEIGHT="679">
+            <Shape><Polygon POINTS="750 1022 760 1024 757 1079 765 1094 757 1239 759 1298 765 1305 759 1339 767 1349 759 1369 759 1431 768 1472 768 1524 760 1534 765 1688 755 1701 737 1694 744 1686 737 1647 744 1627 734 1603 744 1586 736 1557 744 1534 736 1521 729 1457 742 1393 729 1375 729 1362 742 1347 742 1279 729 1257 741 1221 729 1194 739 1177 723 1156 723 1024"/></Shape>
+	    <String CONTENT="阮 黎光順癸未阮鑠莫永定丁未阮庵黎大和癸酉黃邵  乙未"
+                    HPOS="723"
+                    VPOS="1022"
+                    WIDTH="45"
+                    HEIGHT="679"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ec7f688"
+                    
+                    BASELINE="836 1025 846 1345" 
+                    HPOS="809"
+                    VPOS="1024"
+                    WIDTH="51"
+                    HEIGHT="320">
+            <Shape><Polygon POINTS="834 1024 850 1025 845 1110 855 1161 849 1194 857 1210 850 1249 857 1257 852 1293 858 1298 854 1323 860 1334 845 1344 832 1339 829 1329 831 1264 816 1249 814 1171 822 1159 814 1149 826 1117 814 1092 819 1069 809 1048 813 1027"/></Shape>
+	    <String CONTENT="阮儔黎正和丁丑阮德潤莫淳福乙丑"
+                    HPOS="809"
+                    VPOS="1024"
+                    WIDTH="51"
+                    HEIGHT="320"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ed35546"
+                    
+                    BASELINE="865 1022 878 1701" 
+                    HPOS="842"
+                    VPOS="1020"
+                    WIDTH="46"
+                    HEIGHT="679">
+            <Shape><Polygon POINTS="863 1020 876 1022 870 1053 878 1104 878 1153 870 1163 870 1182 880 1203 872 1218 872 1269 878 1321 875 1405 883 1413 876 1444 883 1594 878 1611 886 1635 881 1660 888 1666 888 1694 876 1699 852 1696 850 1544 862 1531 862 1486 849 1470 847 1423 862 1392 847 1375 862 1359 860 1331 852 1321 860 1302 858 1261 847 1251 858 1208 842 1184 857 1161 845 1073 855 1051 850 1022"/></Shape>
+	    <String CONTENT="阮瑀黎景統己未 壽昌縣杜崧黎端慶乙丑阮克勤黎統元癸未"
+                    HPOS="842"
+                    VPOS="1020"
+                    WIDTH="46"
+                    HEIGHT="679"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_16548775"
+                    
+                    BASELINE="887 1020 903 1705" 
+                    HPOS="858"
+                    VPOS="1019"
+                    WIDTH="59"
+                    HEIGHT="685">
+            <Shape><Polygon POINTS="886 1019 904 1022 896 1046 906 1096 901 1166 908 1199 901 1215 908 1238 899 1254 908 1272 901 1316 908 1334 901 1341 901 1398 903 1473 914 1500 904 1531 914 1580 906 1590 912 1665 908 1683 917 1699 901 1704 883 1684 886 1637 878 1606 862 1590 860 1550 858 1405 886 1352 878 1310 862 1289 881 1248 870 1218 880 1207 875 1194 883 1184 875 1158 881 1099 875 1094 870 1053 876 1022"/></Shape>
+	    <String CONTENT="劉檄黎統元丙戌黎矩方莫廣和辛丑阮瑀黎洪順甲戌阮貴恩黎永盛乙未"
+                    HPOS="858"
+                    VPOS="1019"
+                    WIDTH="59"
+                    HEIGHT="685"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d6f4255c"
+                    
+                    BASELINE="919 1017 930 1691" 
+                    HPOS="901"
+                    VPOS="1015"
+                    WIDTH="44"
+                    HEIGHT="674">
+            <Shape><Polygon POINTS="917 1015 934 1017 935 1030 935 1089 929 1100 935 1110 937 1154 929 1163 929 1185 937 1241 930 1279 940 1303 940 1323 932 1334 932 1397 939 1408 934 1483 944 1516 935 1529 935 1578 944 1598 937 1606 937 1660 945 1668 945 1684 929 1689 917 1686 924 1648 908 1591 908 1549 922 1534 922 1521 909 1495 919 1462 906 1446 904 1356 919 1305 917 1266 903 1249 912 1235 904 1221 904 1172 916 1151 909 1110 914 1082 903 1068 901 1051 909 1042 903 1019"/></Shape>
+	    <String CONTENT="阮日壯黎光興乙未阮公爍黎永治庚申段仁淑黎景統壬戌杜致忠黎  乙未"
+                    HPOS="901"
+                    VPOS="1015"
+                    WIDTH="44"
+                    HEIGHT="674"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3d4318be"
+                    
+                    BASELINE="980 1013 986 1690" 
+                    HPOS="958"
+                    VPOS="1012"
+                    WIDTH="48"
+                    HEIGHT="677">
+            <Shape><Polygon POINTS="978 1012 989 1015 988 1035 999 1048 991 1078 1001 1089 1001 1135 991 1149 996 1156 988 1177 994 1203 989 1223 996 1231 989 1246 996 1267 989 1275 1002 1297 1002 1349 991 1372 1004 1393 996 1401 1001 1414 991 1432 991 1516 993 1536 1006 1552 1006 1585 993 1606 999 1684 984 1689 971 1684 970 1635 962 1626 962 1549 971 1537 970 1483 960 1447 968 1416 963 1400 970 1393 958 1344 958 1231 966 1205 962 1015"/></Shape>
+	    <String CONTENT="第二名慈廉縣翁義達黎洪德乙未裴允篤莫大正乙未范光宅黎正和癸亥"
+                    HPOS="958"
+                    VPOS="1012"
+                    WIDTH="48"
+                    HEIGHT="677"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_34524c09"
+                    
+                    BASELINE="436 1064 436 1112" 
+                    HPOS="395"
+                    VPOS="1063"
+                    WIDTH="40"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="435 1063 435 1110 397 1107 395 1066"/></Shape>
+	    <String CONTENT="坊"
+                    HPOS="395"
+                    VPOS="1063"
+                    WIDTH="40"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_237fda8b"
+                    
+                    BASELINE="406 1073 407 1155" 
+                    HPOS="392"
+                    VPOS="1071"
+                    WIDTH="21"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="405 1071 413 1073 413 1149 405 1154 392 1149 399 1073"/></Shape>
+	    <String CONTENT="坊以下"
+                    HPOS="392"
+                    VPOS="1071"
+                    WIDTH="21"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b98fc053"
+                    
+                    BASELINE="582 1087 583 1122" 
+                    HPOS="572"
+                    VPOS="1086"
+                    WIDTH="10"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="580 1086 582 1120 572 1117 575 1089"/></Shape>
+	    <String CONTENT="古 社"
+                    HPOS="572"
+                    VPOS="1086"
+                    WIDTH="10"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4591f95f"
+                    
+                    BASELINE="737 1082 738 1174" 
+                    HPOS="724"
+                    VPOS="1081"
+                    WIDTH="22"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="736 1081 744 1082 746 1092 746 1154 737 1172 724 1158 724 1082"/></Shape>
+	    <String CONTENT="社以下"
+                    HPOS="724"
+                    VPOS="1081"
+                    WIDTH="22"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d422d24d"
+                    
+                    BASELINE="643 1090 641 1120" 
+                    HPOS="605"
+                    VPOS="1089"
+                    WIDTH="41"
+                    HEIGHT="29">
+            <Shape><Polygon POINTS="641 1089 646 1114 639 1118 605 1112 608 1089"/></Shape>
+	    <String CONTENT="社"
+                    HPOS="605"
+                    VPOS="1089"
+                    WIDTH="41"
+                    HEIGHT="29"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6cbc1952"
+                    
+                    BASELINE="522 1098 523 1126" 
+                    HPOS="497"
+                    VPOS="1097"
+                    WIDTH="33"
+                    HEIGHT="28">
+            <Shape><Polygon POINTS="521 1097 528 1099 530 1120 521 1125 499 1122 497 1100"/></Shape>
+	    <String CONTENT="/   社"
+                    HPOS="497"
+                    VPOS="1097"
+                    WIDTH="33"
+                    HEIGHT="28"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfadfa71"
+                    
+                    BASELINE="825 1094 827 1144" 
+                    HPOS="811"
+                    VPOS="1092"
+                    WIDTH="15"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="824 1092 826 1143 811 1133 819 1096"/></Shape>
+	    <String CONTENT="東 坊"
+                    HPOS="811"
+                    VPOS="1092"
+                    WIDTH="15"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0daf9c0"
+                    
+                    BASELINE="858 1092 859 1137" 
+                    HPOS="819"
+                    VPOS="1091"
+                    WIDTH="39"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="857 1091 858 1136 819 1133 819 1096"/></Shape>
+	    <String CONTENT="義 社"
+                    HPOS="819"
+                    VPOS="1091"
+                    WIDTH="39"
+                    HEIGHT="45"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05961142"
+                    
+                    BASELINE="944 1092 944 1126" 
+                    HPOS="932"
+                    VPOS="1091"
+                    WIDTH="18"
+                    HEIGHT="34">
+            <Shape><Polygon POINTS="942 1091 950 1092 950 1120 942 1125 932 1122 932 1094"/></Shape>
+	    <String CONTENT="大德社"
+                    HPOS="932"
+                    VPOS="1091"
+                    WIDTH="18"
+                    HEIGHT="34"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2d70ba41"
+                    
+                    BASELINE="437 1263 439 1337" 
+                    HPOS="402"
+                    VPOS="1262"
+                    WIDTH="36"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="436 1262 438 1336 402 1333 413 1289 410 1266"/></Shape>
+	    <String CONTENT="利坊以下"
+                    HPOS="402"
+                    VPOS="1262"
+                    WIDTH="36"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_baa50ec1"
+                    
+                    BASELINE="492 1264 494 1307" 
+                    HPOS="484"
+                    VPOS="1262"
+                    WIDTH="8"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="490 1262 492 1305 484 1295 487 1264"/></Shape>
+	    <String CONTENT="河口坊"
+                    HPOS="484"
+                    VPOS="1262"
+                    WIDTH="8"
+                    HEIGHT="43"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_faaa3439"
+                    
+                    BASELINE="523 1266 522 1313" 
+                    HPOS="463"
+                    VPOS="1264"
+                    WIDTH="68"
+                    HEIGHT="47">
+            <Shape><Polygon POINTS="521 1264 528 1266 531 1285 521 1311 463 1308 469 1267"/></Shape>
+	    <String CONTENT="安 社"
+                    HPOS="463"
+                    VPOS="1264"
+                    WIDTH="68"
+                    HEIGHT="47"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f69763d"
+                    
+                    BASELINE="580 1263 579 1337" 
+                    HPOS="549"
+                    VPOS="1262"
+                    WIDTH="40"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="579 1262 585 1264 589 1313 585 1331 577 1336 554 1331 549 1320 551 1264"/></Shape>
+	    <String CONTENT="雲耕社以下"
+                    HPOS="549"
+                    VPOS="1262"
+                    WIDTH="40"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39e493a7"
+                    
+                    BASELINE="640 1265 641 1333" 
+                    HPOS="608"
+                    VPOS="1264"
+                    WIDTH="38"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="639 1264 646 1315 639 1331 608 1328 610 1267"/></Shape>
+	    <String CONTENT="東 社以下"
+                    HPOS="608"
+                    VPOS="1264"
+                    WIDTH="38"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c83c3548"
+                    
+                    BASELINE="769 1265 770 1330" 
+                    HPOS="739"
+                    VPOS="1264"
+                    WIDTH="36"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="768 1264 775 1266 775 1326 768 1329 742 1325 739 1266"/></Shape>
+	    <String CONTENT="社以下"
+                    HPOS="739"
+                    VPOS="1264"
+                    WIDTH="36"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aafc084f"
+                    
+                    BASELINE="830 1269 827 1308" 
+                    HPOS="811"
+                    VPOS="1267"
+                    WIDTH="26"
+                    HEIGHT="40">
+            <Shape><Polygon POINTS="829 1267 837 1282 826 1307 818 1302 811 1269"/></Shape>
+	    <String CONTENT="福 村"
+                    HPOS="811"
+                    VPOS="1267"
+                    WIDTH="26"
+                    HEIGHT="40"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc16ba08"
+                    
+                    BASELINE="915 1267 908 1336" 
+                    HPOS="865"
+                    VPOS="1264"
+                    WIDTH="56"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="914 1266 921 1275 921 1308 906 1334 876 1326 878 1311 865 1293 875 1272 868 1264"/></Shape>
+	    <String CONTENT="上安洪社"
+                    HPOS="865"
+                    VPOS="1264"
+                    WIDTH="56"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_443fcf59"
+                    
+                    BASELINE="882 1279 884 1324" 
+                    HPOS="867"
+                    VPOS="1277"
+                    WIDTH="16"
+                    HEIGHT="46">
+            <Shape><Polygon POINTS="881 1277 883 1323 870 1303 867 1280"/></Shape>
+	    <String CONTENT="?  社"
+                    HPOS="867"
+                    VPOS="1277"
+                    WIDTH="16"
+                    HEIGHT="46"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_863a158a"
+                    
+                    BASELINE="969 1277 969 1327" 
+                    HPOS="958"
+                    VPOS="1275"
+                    WIDTH="18"
+                    HEIGHT="51">
+            <Shape><Polygon POINTS="968 1275 976 1277 975 1323 968 1326 960 1323 958 1279"/></Shape>
+	    <String CONTENT="富家社"
+                    HPOS="958"
+                    VPOS="1275"
+                    WIDTH="18"
+                    HEIGHT="51"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_776f4c31"
+                    
+                    BASELINE="353 1447 353 1505" 
+                    HPOS="314"
+                    VPOS="1446"
+                    WIDTH="45"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="351 1446 359 1457 358 1501 351 1504 314 1500 314 1449"/></Shape>
+	    <String CONTENT="坊以下"
+                    HPOS="314"
+                    VPOS="1446"
+                    WIDTH="45"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fb78c8a3"
+                    
+                    BASELINE="497 1447 493 1516" 
+                    HPOS="461"
+                    VPOS="1446"
+                    WIDTH="41"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="495 1446 502 1498 492 1514 461 1509 467 1470 463 1447"/></Shape>
+	    <String CONTENT="含 坊以下"
+                    HPOS="461"
+                    VPOS="1446"
+                    WIDTH="41"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfec86c4"
+                    
+                    BASELINE="611 1447 611 1507" 
+                    HPOS="575"
+                    VPOS="1446"
+                    WIDTH="41"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="610 1446 616 1488 610 1506 579 1503 575 1468 584 1449"/></Shape>
+	    <String CONTENT="日早社以下"
+                    HPOS="575"
+                    VPOS="1446"
+                    WIDTH="41"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bc925657"
+                    
+                    BASELINE="737 1456 747 1523" 
+                    HPOS="711"
+                    VPOS="1455"
+                    WIDTH="38"
+                    HEIGHT="69">
+            <Shape><Polygon POINTS="736 1455 747 1455 749 1464 746 1522 713 1524 711 1462"/></Shape>
+	    <String CONTENT="社以下"
+                    HPOS="711"
+                    VPOS="1455"
+                    WIDTH="38"
+                    HEIGHT="69"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb264e71"
+                    
+                    BASELINE="859 1451 859 1470" 
+                    HPOS="847"
+                    VPOS="1450"
+                    WIDTH="21"
+                    HEIGHT="15">
+            <Shape><Polygon POINTS="858 1450 867 1452 868 1465 849 1465 847 1454"/></Shape>
+	    <String CONTENT="??"
+                    HPOS="847"
+                    VPOS="1450"
+                    WIDTH="21"
+                    HEIGHT="15"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6db3fa14"
+                    
+                    BASELINE="883 1452 884 1516" 
+                    HPOS="850"
+                    VPOS="1450"
+                    WIDTH="43"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="881 1450 891 1452 893 1472 891 1509 883 1514 850 1511 862 1493 850 1454"/></Shape>
+	    <String CONTENT="大 社以下"
+                    HPOS="850"
+                    VPOS="1450"
+                    WIDTH="43"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_535bd37d"
+                    
+                    BASELINE="912 1449 912 1487" 
+                    HPOS="847"
+                    VPOS="1447"
+                    WIDTH="75"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="911 1447 921 1452 922 1480 911 1486 855 1483 847 1450"/></Shape>
+	    <String CONTENT="義都社"
+                    HPOS="847"
+                    VPOS="1447"
+                    WIDTH="75"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc6adbce"
+                    
+                    BASELINE="943 1445 942 1499" 
+                    HPOS="932"
+                    VPOS="1444"
+                    WIDTH="18"
+                    HEIGHT="54">
+            <Shape><Polygon POINTS="942 1444 950 1475 940 1498 932 1446"/></Shape>
+	    <String CONTENT="塔村"
+                    HPOS="932"
+                    VPOS="1444"
+                    WIDTH="18"
+                    HEIGHT="54"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ed336697"
+                    
+                    BASELINE="970 1455 972 1508" 
+                    HPOS="963"
+                    VPOS="1454"
+                    WIDTH="15"
+                    HEIGHT="52">
+            <Shape><Polygon POINTS="968 1454 975 1455 978 1478 971 1506 963 1503 963 1457"/></Shape>
+	    <String CONTENT="安壽社"
+                    HPOS="963"
+                    VPOS="1454"
+                    WIDTH="15"
+                    HEIGHT="52"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_867b6458"
+                    
+                    BASELINE="402 1622 400 1661" 
+                    HPOS="376"
+                    VPOS="1621"
+                    WIDTH="37"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="400 1621 413 1624 413 1650 399 1660 376 1655 381 1622"/></Shape>
+	    <String CONTENT="壽昌社"
+                    HPOS="376"
+                    VPOS="1621"
+                    WIDTH="37"
+                    HEIGHT="39"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_db324c73"
+                    
+                    BASELINE="776 1635 778 1698" 
+                    HPOS="742"
+                    VPOS="1634"
+                    WIDTH="35"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="775 1634 777 1697 742 1693 746 1637"/></Shape>
+	    <String CONTENT="社以下"
+                    HPOS="742"
+                    VPOS="1634"
+                    WIDTH="35"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57c60208"
+                    
+                    BASELINE="862 1635 863 1680" 
+                    HPOS="836"
+                    VPOS="1634"
+                    WIDTH="32"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="860 1634 868 1635 862 1678 836 1675 837 1637"/></Shape>
+	    <String CONTENT="? 坊"
+                    HPOS="836"
+                    VPOS="1634"
+                    WIDTH="32"
+                    HEIGHT="44"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05ed1ebb"
+                    
+                    BASELINE="910 1631 910 1670" 
+                    HPOS="885"
+                    VPOS="1630"
+                    WIDTH="36"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="909 1630 919 1632 921 1648 921 1665 909 1668 885 1663 885 1634"/></Shape>
+	    <String CONTENT="下姥社"
+                    HPOS="885"
+                    VPOS="1630"
+                    WIDTH="36"
+                    HEIGHT="38"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c61d6bc2"
+                    
+                    BASELINE="967 1633 969 1664" 
+                    HPOS="953"
+                    VPOS="1632"
+                    WIDTH="25"
+                    HEIGHT="31">
+            <Shape><Polygon POINTS="966 1632 978 1635 968 1663 953 1660 955 1635"/></Shape>
+	    <String CONTENT="東 社"
+                    HPOS="953"
+                    VPOS="1632"
+                    WIDTH="25"
+                    HEIGHT="31"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
